@@ -1,0 +1,1 @@
+c({"name": "AD.Model", "type": "class", "comment": "<p>Shared resources related to our Model objects.</p>", "parents": ["AD_Server"], "src": "appDev/node_modules/AD.js", "line": 90, "children": ["AD.Model.extend", "AD.Model.ModelSQL", "AD.Model.ModelSQLMultilingual"]})

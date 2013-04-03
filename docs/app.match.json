@@ -1,0 +1,1 @@
+c({"name": "app.match", "params": {"url": {"description": "", "type": "Stirng", "optional": false, "order": 0, "name": "url"}}, "ret": {"description": "", "type": "Array"}, "type": "function", "comment": "<p>Lookup routes matching the given <code>url</code>.</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/express/lib/http.js", "line": 161, "children": []})

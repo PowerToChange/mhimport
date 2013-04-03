@@ -1,0 +1,1 @@
+c({"name": "static.guessType", "params": {"code": {"description": "", "type": "String", "optional": false, "order": 0, "name": "code"}}, "ret": {"description": "<p>type</p>", "type": "Object"}, "type": "function", "parents": ["static"], "comment": "<p>Guess type from code</p>", "src": "appDev/data/scripts/documentjs/types/type.js", "line": 145, "children": []})

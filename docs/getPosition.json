@@ -1,0 +1,1 @@
+c({"name": "getPosition", "params": {}, "ret": {"description": "", "type": "Point2D"}, "type": "function", "comment": "<p>We need this for the collision model.</p>", "src": "appDev/modules/sketchGamez/data/units/hordscorpion/hordscorpion.js", "line": 328, "children": []})

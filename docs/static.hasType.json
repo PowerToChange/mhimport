@@ -1,0 +1,1 @@
+c({"name": "static.hasType", "params": {"type": {"description": "", "type": "Object", "optional": false, "order": 0, "name": "type"}}, "ret": {"description": "<p>type</p>", "type": "Object"}, "type": "function", "parents": ["static"], "comment": "<p>Checks if type processor is loaded</p>", "src": "appDev/data/scripts/documentjs/types/type.js", "line": 135, "children": []})

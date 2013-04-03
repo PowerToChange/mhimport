@@ -1,0 +1,1 @@
+c({"name": "getLinePath", "type": "attribute", "comment": "<p>returns reference to raphael's path object\n        for the line data with given index </p>", "src": "appDev/data/scripts/wijmo/jquery.wijmo-complete.1.4.0.js", "line": 28797, "children": []})

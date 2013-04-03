@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnCode/!svn/ver/11477/appDev_Modules/appRAD/trunk/data/templates/node
+END
+modelSQLMultilingual.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnCode/!svn/ver/11476/appDev_Modules/appRAD/trunk/data/templates/node/modelSQLMultilingual.js
+END
+modelSQL.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnCode/!svn/ver/11476/appDev_Modules/appRAD/trunk/data/templates/node/modelSQL.js
+END
+data_po.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnCode/!svn/ver/10965/appDev_Modules/appRAD/trunk/data/templates/node/data_po.ejs
+END
+service_action.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnCode/!svn/ver/11479/appDev_Modules/appRAD/trunk/data/templates/node/service_action.js
+END
+labels.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnCode/!svn/ver/10507/appDev_Modules/appRAD/trunk/data/templates/node/labels.js
+END
+service_model.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnCode/!svn/ver/11479/appDev_Modules/appRAD/trunk/data/templates/node/service_model.js
+END
+interface.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnCode/!svn/ver/10587/appDev_Modules/appRAD/trunk/data/templates/node/interface.ejs
+END
+node_interface.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnCode/!svn/ver/11352/appDev_Modules/appRAD/trunk/data/templates/node/node_interface.js
+END
+node_module.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnCode/!svn/ver/11364/appDev_Modules/appRAD/trunk/data/templates/node/node_module.js
+END
+po.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnCode/!svn/ver/10934/appDev_Modules/appRAD/trunk/data/templates/node/po.ejs
+END

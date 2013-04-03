@@ -1,0 +1,1 @@
+c({"name": "Event.EventException", "params": {"code": {"description": "", "type": "", "optional": false, "order": 0, "name": "code"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["Event"], "comment": "<p>@name EventException</p>", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 6647, "children": []})

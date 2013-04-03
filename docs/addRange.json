@@ -1,0 +1,1 @@
+c({"name": "addRange", "type": "attribute", "comment": "<p>this.selectedColumns = function () {\n        return _selectedColumns; // TODO ?\n        };</p>\n\n<pre><code>    this.selectedRows = function () {\n    return _selectedRows; // TODO ?\n    };\n</code></pre>", "src": "appDev/data/scripts/wijmo/jquery.wijmo-complete.1.4.0.js", "line": 16867, "children": []})

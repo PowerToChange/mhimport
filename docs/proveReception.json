@@ -1,0 +1,1 @@
+c({"name": "proveReception", "type": "attribute", "comment": "<p>Finishes the handshake.</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/socket.io/lib/transports/websocket/default.js", "line": 218, "children": []})

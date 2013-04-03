@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnCode/!svn/ver/11475/appDev/trunk/data/scripts/appDev/widgets/appdev_list_select
+END
+appdev_list_select.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnCode/!svn/ver/11475/appDev/trunk/data/scripts/appDev/widgets/appdev_list_select/appdev_list_select.ejs
+END
+appdev_list_select.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnCode/!svn/ver/11475/appDev/trunk/data/scripts/appDev/widgets/appdev_list_select/appdev_list_select.js
+END
+dep_appdev_list_select.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnCode/!svn/ver/11450/appDev/trunk/data/scripts/appDev/widgets/appdev_list_select/dep_appdev_list_select.js
+END
+labels_en.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnCode/!svn/ver/11450/appDev/trunk/data/scripts/appDev/widgets/appdev_list_select/labels_en.js
+END

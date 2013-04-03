@@ -1,0 +1,1 @@
+c({"name": "AppDev.hideAlert", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Close the alert dialog box.</p>", "src": "appDev/data/scripts/appDev/appDev.js", "line": 169, "children": []})

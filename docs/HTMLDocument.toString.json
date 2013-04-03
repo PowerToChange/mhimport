@@ -1,0 +1,1 @@
+c({"name": "HTMLDocument.toString", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["HTMLDocument"], "comment": "<p><p>Unlike other elements, toString returns the href</p>toString like <a>, returns the href</p>", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 8876, "children": []})

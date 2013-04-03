@@ -1,0 +1,1 @@
+c({"name": "AD.Comm.Service", "type": "class", "comment": "<p>a standard response object for our Service requests.</p>", "parents": ["AD.Comm"], "src": "appDev/node_modules/AD.js", "line": 219, "children": []})

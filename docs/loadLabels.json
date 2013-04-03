@@ -1,0 +1,1 @@
+c({"name": "loadLabels", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Pull the data from the DB for the labels associated with this interface.</p>", "src": "appDev/node_modules/app_interface.js", "line": 420, "children": []})

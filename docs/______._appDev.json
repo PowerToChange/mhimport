@@ -1,0 +1,1 @@
+c({"name": "______._appDev", "type": "directory", "comment": "<p>This directory contains server side widgets, models, communications and multilingual objects</p>", "parents": ["____._scripts"], "src": "appDev/Documentation/docs.js", "line": 135, "children": ["________._communications", "________._lang", "________._model", "________._widgets", "_________.appDev.js"]})

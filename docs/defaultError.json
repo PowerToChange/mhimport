@@ -1,0 +1,1 @@
+c({"name": "defaultError", "type": "attribute", "comment": "<p>Default error event listener to prevent uncaught exceptions.</p>", "src": "appDev/node_modules/socket.io/lib/socket.js", "line": 21, "children": []})

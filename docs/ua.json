@@ -1,0 +1,1 @@
+c({"name": "ua", "type": "attribute", "comment": "<p>UA / engines detection namespace.</p>\n\n<p>@namespace</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/util.js", "line": 322, "children": []})

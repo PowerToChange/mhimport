@@ -1,0 +1,1 @@
+c({"name": "AD.App.Page.addJavascripts", "type": "class", "comment": "<p>A utility function to add our required javascript files to our\nInterface's response.</p>", "parents": ["AD.App.Page"], "src": "appDev/node_modules/AD.js", "line": 296, "children": ["AD.App.Page.addJavascripts.Interface"]})

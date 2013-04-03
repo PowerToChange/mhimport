@@ -1,0 +1,1 @@
+c({"name": "listWidgets", "type": "attribute", "comment": "<p>pathModules: <em>_dirname + '/containers',\npathScripts: _</em>dirname+'/scripts',\npathServices: __dirname+'/services',</p>", "src": "appDev/modules/testunit/interfaces/test/node_test.js", "line": 26, "children": []})

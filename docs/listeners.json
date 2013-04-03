@@ -1,0 +1,1 @@
+c({"name": "listeners", "type": "attribute", "comment": "<p>Gets all listeners for a certain event.</p>\n\n<p>@api publci</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/events.js", "line": 124, "children": []})

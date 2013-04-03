@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/app/models
+END
+.ignore
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/app/models/.ignore
+END
+models.js.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/app/models/models.js.ejs
+END

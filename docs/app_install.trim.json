@@ -1,0 +1,1 @@
+c({"name": "app_install.trim", "type": "function", "parents": ["app_install"], "comment": "<h3>trim</h3>\n\n<p>This functions performs a trim on an input function</p>", "params": {"{string}": {"order": 0, "description": "", "name": "{string}", "type": "str", "optional": false}}, "src": "appDev/install/app_install.js", "line": 110, "children": []})

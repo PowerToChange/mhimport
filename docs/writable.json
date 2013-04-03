@@ -1,0 +1,1 @@
+c({"name": "writable", "type": "attribute", "comment": "<p>Act as regular client</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/WebSocket.js", "line": 64, "children": []})

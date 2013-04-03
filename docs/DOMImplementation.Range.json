@@ -1,0 +1,1 @@
+c({"name": "DOMImplementation.Range", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["DOMImplementation"], "comment": "", "author": "thatcher", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 5313, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "handshakeData", "type": "attribute", "comment": "<p>Gets normalized handshake data</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/socket.io/lib/manager.js", "line": 767, "children": []})

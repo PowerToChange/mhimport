@@ -1,0 +1,1 @@
+c({"name": "discard", "type": "attribute", "comment": "<p>Signals that the transport should pause and buffer data.</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/socket.io/lib/transport.js", "line": 473, "children": []})

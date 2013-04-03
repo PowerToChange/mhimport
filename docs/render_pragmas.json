@@ -1,0 +1,1 @@
+c({"name": "render_pragmas", "params": {"template": {"description": "", "type": "", "optional": false, "order": 0, "name": "template"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Looks for %PRAGMAS</p>", "src": "appDev/node_modules/mailer/vendor/mustache.js", "line": 60, "children": []})

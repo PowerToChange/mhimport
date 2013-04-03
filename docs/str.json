@@ -1,0 +1,1 @@
+c({"name": "str", "type": "attribute", "comment": "<p>Characters from 33-126 OK (except for =; and ?_ when in mime word mode)\nSpaces + tabs OK (except for line beginnings and endings) <br />\n\\n + \\r OK</p>", "src": "appDev/node_modules/mailer/node_modules/nodemailer/node_modules/mimelib-noiconv/mime-functions.js", "line": 144, "children": []})

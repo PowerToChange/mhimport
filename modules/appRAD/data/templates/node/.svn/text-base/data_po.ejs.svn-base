@@ -1,0 +1,15 @@
+
+#. #########################################
+#. Data translations
+#. Source language: <%- sourceLangCode %>
+#. Target language: <%- targetLangCode %>
+#. #########################################
+
+
+<% for (var i=0; i<labels.length; i++) { %>
+#. table: <%- labels[i]['table'] %>
+#. code: <%- targetLangCode %>
+#. index: <%- labels[i]['index'] %>
+msgid "<%- labels[i][sourceLangCode] %>"
+msgstr "<%- labels[i][targetLangCode] %>"
+<% } %>

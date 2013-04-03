@@ -1,0 +1,1 @@
+c({"name": "Logger", "type": "attribute", "comment": "<p>Logger (console).</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/socket.io/lib/logger.js", "line": 52, "children": []})

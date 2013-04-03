@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/app/fixtures
+END
+.ignore
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/app/fixtures/.ignore
+END
+fixtures.js.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/app/fixtures/fixtures.js.ejs
+END

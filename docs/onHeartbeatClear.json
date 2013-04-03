@@ -1,0 +1,1 @@
+c({"name": "onHeartbeatClear", "type": "attribute", "comment": "<p>Called upon receiving a heartbeat packet.</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/socket.io/lib/transport.js", "line": 184, "children": []})

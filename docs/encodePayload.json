@@ -1,0 +1,1 @@
+c({"name": "encodePayload", "type": "attribute", "comment": "<p>Encodes multiple messages (payload).</p>\n\n<p>@api private</p>", "params": {"messages": {"order": 0, "description": "", "name": "messages", "type": "Array", "optional": false}}, "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/parser.js", "line": 126, "children": []})

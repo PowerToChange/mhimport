@@ -1,0 +1,1 @@
+c({"name": "except", "type": "attribute", "comment": "<p>Adds a session id we should prevent relaying messages to (flag).</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/socket.io/lib/namespace.js", "line": 115, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "FuncUnit.loader.selenium", "params": {"page": {"description": "", "type": "", "optional": false, "order": 0, "name": "page"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Loads the FuncUnit page in Selenium</p>", "src": "appDev/data/scripts/funcunit/commandline/selenium.js", "line": 5, "children": []})

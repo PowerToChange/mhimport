@@ -1,0 +1,1 @@
+c({"name": "Event.running", "type": "attribute", "parents": ["Event"], "comment": "<p>console.log('running stack %s', nextfn.toString().substring(0,64));</p>", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 6945, "children": []})

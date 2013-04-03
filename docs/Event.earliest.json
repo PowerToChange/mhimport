@@ -1,0 +1,1 @@
+c({"name": "Event.earliest", "type": "attribute", "parents": ["Event"], "comment": "<p>console.log('timer loop');\n        try{\n        commandline = Envjs.shell.next(' ');\n        }catch(e){console.log(e);}\n        console.log('commandline %s', commandline);</p>", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 6920, "children": []})

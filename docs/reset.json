@@ -1,0 +1,1 @@
+c({"name": "reset", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Resets the test setup. Useful for tests that modify the DOM.</p>\n\n<p>If jQuery is available, uses jQuery's html(), otherwise just innerHTML.</p>", "src": "appDev/node_modules/jquery-deferred/test/qunit/qunit.js", "line": 537, "children": []})

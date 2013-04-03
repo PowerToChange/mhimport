@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/app/test/qunit
+END
+qunit.js.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/app/test/qunit/qunit.js.ejs
+END
+(application_name)_test.js.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/app/test/qunit/(application_name)_test.js.ejs
+END

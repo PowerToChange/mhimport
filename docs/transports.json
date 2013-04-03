@@ -1,0 +1,1 @@
+c({"name": "transports", "type": "attribute", "comment": "<p>Transports bindings\n1) key is the dataType\n2) the catchall symbol \"<em>\" can be used\n3) selection will start with transport dataType and THEN go to \"</em>\" if needed</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/app.js", "line": 6724, "children": []})

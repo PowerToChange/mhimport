@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/vendor/web-socket-js
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/vendor/web-socket-js/README.txt
+END
+WebSocketMain.swf
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/vendor/web-socket-js/WebSocketMain.swf
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/vendor/web-socket-js/.gitignore
+END
+swfobject.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/vendor/web-socket-js/swfobject.js
+END
+web_socket.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/vendor/web-socket-js/web_socket.js
+END
+WebSocketMainInsecure.zip
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/vendor/web-socket-js/WebSocketMainInsecure.zip
+END
+sample.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/vendor/web-socket-js/sample.html
+END

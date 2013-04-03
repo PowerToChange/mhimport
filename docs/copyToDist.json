@@ -1,0 +1,1 @@
+c({"name": "copyToDist", "params": {"path": {"description": "", "type": "", "optional": false, "order": 0, "name": "path"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Build the standalone funcunit</p>", "src": "appDev/data/scripts/funcunit/build.js", "line": 46, "children": []})

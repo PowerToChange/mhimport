@@ -1,0 +1,1 @@
+c({"name": "authLocal.getExemptedRoutes", "params": {}, "ret": {"description": "<p>array</p>", "type": undefined}, "type": "function", "parents": ["authLocal"], "comment": "<p>A list of routes that do not require authentication under this auth handler.</p>", "src": "appDev/node_modules/auth-local.js", "line": 21, "children": []})

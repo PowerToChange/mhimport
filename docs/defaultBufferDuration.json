@@ -1,0 +1,1 @@
+c({"name": "defaultBufferDuration", "type": "attribute", "comment": "<p>Default log buffer duration.</p>", "src": "appDev/node_modules/express/node_modules/connect/lib/middleware/logger.js", "line": 14, "children": []})

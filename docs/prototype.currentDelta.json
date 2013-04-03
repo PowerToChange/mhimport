@@ -1,0 +1,1 @@
+c({"name": "prototype.currentDelta", "params": {}, "ret": {"description": "", "type": "Vector"}, "type": "function", "parents": ["prototype"], "comment": "<p>Returns the position of the movingElement by taking its top and left.</p>", "hide": true, "src": "appDev/data/scripts/funcunit/test/jquery.event.drag.js", "line": 567, "children": []})

@@ -1,0 +1,151 @@
+<div class="container">
+    <div class="row">
+      <div class="span5">
+
+        <div id='listModules'>
+            <div class="hidden">
+	        <div id="template-edit" >
+	        	<input type="text" class="input" placeholder="New Module" data-bind='name' >
+	        </div>
+	        </div>
+        </div><br>
+        <div id='listInterfaces'></div><br>
+        <div id='listModels'></div>
+
+
+      </div>
+      
+      <div class="span11">
+        <div id="ModuleWorkAreaPanel" class="hide">
+          <div class="tabbable">
+            <ul class="nav nav-tabs">
+              <li class="active"><a href="#installTab" data-toggle="tab">Install</a></li>
+              <li><a href="#widgetTab" data-toggle="tab">Widgets</a></li>
+              <li><a href="#serviceTab" data-toggle="tab">Services</a></li>
+            </ul>
+            <div class="tab-content">
+              <div class="tab-pane active" id="installTab">
+                <div class="row">
+                  <div class="span6">
+                    <div id='installActions'></div>
+                  </div>
+
+                  <div class="span5">
+                    <div id='listInstallFiles'></div>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="tab-pane" id="widgetTab">
+                <div class="row">
+                  <div class="span5">
+                    <div id='listModuleWidgets'></div>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="tab-pane" id="serviceTab">
+                <div id="moduleAddService">
+                  <h3>Create Service</h3><br />
+                  
+                  Service Name<br />
+                  <input type="text" id="moduleServiceName" /><br />
+                  Action Name<br />
+                  <input type="text" id="moduleActionName" /><br />
+                  
+                  Default URL: <div id="moduleDefaultUrl"></div><br />
+                  Custom URL<br />
+                  <input type="text" id="moduleCustomUrl" /><br />
+                  <button id="moduleAddServiceButton" class="btn" style="padding: 0px;" ><i class='icon-plus'></i></button>
+                  
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div id="InterfaceWorkAreaPanel" class="hide">
+          <div class="tabbable">
+            <ul class="nav nav-tabs">
+              <li class="active"><a href="#clientTab" data-toggle="tab">Client</a></li>
+              <li><a href="#serverTab" data-toggle="tab">Server</a></li>
+              <li><a href="#labelTab" data-toggle="tab">Label</a></li>
+            </ul>
+            <div class="tab-content">
+              <div class="tab-pane active" id="clientTab">
+                <div class="row">
+                    <div class="span1">Widget Bar</div>
+                    
+                    <div class="span10"> 
+                        <div class="row">
+                            <div class="span5">
+                                <div id='listControllers'></div>
+                            </div>
+                    
+                            <div class="span5">
+                                <div id='listViews'></div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="span10">
+                                <div id='controllerEditorPanel' class="hide"></div>
+                                <div id='viewEditorPanel' class="hide"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+              </div>
+              <div class="tab-pane" id="serverTab">Server Tab</div>
+              <div class="tab-pane" id="labelTab">Label Tab</div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="hide" id="ModelWorkAreaPanel">
+          <div id="ModelAdd">
+              <div class="tabbable">
+                <ul class="nav nav-tabs">
+                  <li class="active"><a href="#sqlTab" data-toggle="tab">SQL</a></li>
+                  <li><a href="#fsTab" data-toggle="tab">FS</a></li>
+                </ul>
+                <div class="tab-content">
+                  <div class="tab-pane active" id="sqlTab">
+                    <div class="row">
+                      <div class="span5">
+                        <div id='modelAddSelectTable'>
+                          <h2>Add Model</h2><br />
+                          <h3>Select Table</h3><br />
+                          
+                          Model Name<br />
+                          <input type="text" id="modelAddModelName" /><br />
+                          <div id="modelAddDbName"></div>
+                          <div id="modelAddDbTable"></div>
+                          <div id="modelAddPrimaryKey"></div>
+                          <div id="modelAddLabelKey"></div>
+
+                          <button id="modelAddSqlButton" class="btn" style="padding: 0px;" ><i class='icon-plus'></i></button>
+                        
+                        </div>
+                      </div>
+    
+                      <div class="span5">
+                        <div id='createTable'></div>
+                      </div>
+                    </div>
+    
+                  </div>
+                  
+                  <div class="tab-pane" id="fsTab">FS Tab</div>
+                </div>
+              </div>
+          </div>
+          
+          
+        </div>
+      </div>
+    </div>
+</div>
+
+ 
+    

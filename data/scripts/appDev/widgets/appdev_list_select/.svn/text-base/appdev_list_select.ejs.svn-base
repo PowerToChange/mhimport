@@ -1,0 +1,7 @@
+<div id="" class="appdev-list-select" >
+      <div style="float:left;" class="title appdev-list-select-title"></div>
+      <div class="loading-anim-container">
+        <div class="loading-anim"></div>
+      </div>
+    <select></select>
+</div>

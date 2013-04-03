@@ -1,0 +1,1 @@
+c({"name": "authenticatePage", "type": "attribute", "comment": "<p>Verify that the current viewer is authenticated. If not, redirect to\nthe login page.</p>", "src": "appDev/node_modules/auth-local.js", "line": 35, "children": []})

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnCode/!svn/ver/11403/appDev/trunk/modules/site/models
+END
+PermissionsViewerRoles.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnCode/!svn/ver/11259/appDev/trunk/modules/site/models/PermissionsViewerRoles.js
+END
+PermissionsRoleTasks.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnCode/!svn/ver/11376/appDev/trunk/modules/site/models/PermissionsRoleTasks.js
+END
+Settings.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnCode/!svn/ver/11012/appDev/trunk/modules/site/models/Settings.js
+END
+Viewer.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnCode/!svn/ver/11012/appDev/trunk/modules/site/models/Viewer.js
+END
+Switcheroo.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnCode/!svn/ver/11019/appDev/trunk/modules/site/models/Switcheroo.js
+END
+Labels.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnCode/!svn/ver/11012/appDev/trunk/modules/site/models/Labels.js
+END
+PermissionsTasks.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnCode/!svn/ver/11399/appDev/trunk/modules/site/models/PermissionsTasks.js
+END
+PermissionsRoles.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnCode/!svn/ver/11376/appDev/trunk/modules/site/models/PermissionsRoles.js
+END

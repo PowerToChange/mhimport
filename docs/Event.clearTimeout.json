@@ -1,0 +1,1 @@
+c({"name": "Event.clearTimeout", "params": {"num": {"description": "", "type": "Object", "optional": false, "order": 0, "name": "num"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["Event"], "comment": "<p>clearInterval</p>", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 6870, "children": []})

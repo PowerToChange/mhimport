@@ -1,0 +1,1 @@
+c({"name": "app_install.createLink", "type": "function", "parents": ["app_install"], "comment": "<h3>createLink</h3>\n\n<p>Create Symbolic Link from '/data/scripts/modules' -> '/modules'</p>", "src": "appDev/install/app_install.js", "line": 127, "children": []})

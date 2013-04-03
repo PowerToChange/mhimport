@@ -1,0 +1,1 @@
+c({"name": "add", "type": "attribute", "comment": "<p>Adds a new origin to the Flash Policy File.</p>\n\n<p>@api public</p>", "params": {"The": {"order": 0, "description": "<p>origins that need to be added.</p>", "name": "The", "type": "Arguments", "optional": false}}, "src": "appDev/node_modules/socket.io/node_modules/policyfile/lib/server.js", "line": 186, "children": []})

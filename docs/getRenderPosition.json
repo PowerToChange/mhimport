@@ -1,0 +1,1 @@
+c({"name": "getRenderPosition", "params": {}, "ret": {"description": "", "type": "Point2D"}, "type": "function", "comment": "<p>We need this for the world bounding box calculation</p>", "src": "appDev/modules/sketchGamez/data/units/hordscorpion/hordscorpion.js", "line": 336, "children": []})

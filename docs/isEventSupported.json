@@ -1,0 +1,1 @@
+c({"name": "isEventSupported", "type": "attribute", "comment": "<p>isEventSupported determines if a given element supports the given event\nfunction from http://yura.thinkweb2.com/isEventSupported/</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/app.js", "line": 11825, "children": []})

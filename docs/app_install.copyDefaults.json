@@ -1,0 +1,1 @@
+c({"name": "app_install.copyDefaults", "type": "function", "parents": ["app_install"], "comment": "<h3>copyDefaults</h3>\n\n<p>Copy <code>/install/data/defaults.js</code>  to <code>/node_modules/defaults.js</code></p>", "src": "appDev/install/app_install.js", "line": 296, "children": []})

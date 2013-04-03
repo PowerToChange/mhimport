@@ -1,0 +1,1 @@
+c({"name": "setBuffer", "type": "attribute", "comment": "<p>Sets buffer state</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/socket.js", "line": 279, "children": []})

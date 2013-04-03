@@ -1,0 +1,1 @@
+c({"name": "winLogin.done", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["winLogin"], "comment": "<p>Used in CAS authentication, for the child iframe containing the\nCAS login page to report back when it has finished.</p>", "src": "appDev/data/scripts/appDev/appDev.js", "line": 536, "children": []})

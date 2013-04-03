@@ -1,0 +1,45 @@
+
+#. #########################################
+#. Labels for module: site
+#. Source language: en
+#. Target language: zh-hans
+#. #########################################
+
+
+
+#. path: /page/site/login
+#. code: zh-hans
+#. key: [site.login.userID]
+msgid "Username"
+msgstr "[zh-hans] Username"
+
+#. path: /page/site/login
+#. code: zh-hans
+#. key: [site.login.pWord]
+msgid "Password"
+msgstr "[zh-hans] Password"
+
+#. path: /page/site/login
+#. code: zh-hans
+#. key: [site.login.login]
+msgid "Login"
+msgstr "[zh-hans] Login"
+
+#. path: /page/site/login
+#. code: zh-hans
+#. key: [site.login.submit]
+msgid "Submit"
+msgstr "[zh-hans] Submit"
+
+#. path: /page/site/autherrors
+#. code: zh-hans
+#. key: [site.autherrors.Reauthenticate]
+msgid "Reauthenticate"
+msgstr "[zh-hans] Reauthenticate"
+
+#. path: /page/site/autherrors
+#. code: zh-hans
+#. key: [site.autherrors.InvalidUP]
+msgid "Invalid User ID / Password"
+msgstr "[zh-hans] Invalid User ID / Password"
+

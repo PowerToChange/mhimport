@@ -1,0 +1,1 @@
+c({"name": "peek2", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Peek 2 tokens ahead. </p>", "src": "appDev/node_modules/jsdom/lib/jsdom/level3/xpath.js", "line": 69, "children": []})

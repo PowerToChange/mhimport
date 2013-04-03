@@ -1,0 +1,1 @@
+c({"name": "FuncUnit.prototype", "type": "prototype", "parents": ["FuncUnit"], "comment": "", "src": "appDev/data/scripts/funcunit/browser/actions.js", "line": 5, "children": ["FuncUnit.prototype.click", "FuncUnit.prototype.dblclick", "FuncUnit.prototype.rightClick", "FuncUnit.prototype.type", "FuncUnit.prototype.drag", "FuncUnit.prototype.move", "FuncUnit.prototype.scroll"]})

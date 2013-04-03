@@ -1,0 +1,1 @@
+c({"name": "CSSOM.CSSStyleSheet.prototype.toString", "params": {}, "ret": {"description": "<p>serialize stylesheet</p>", "type": "string"}, "type": "function", "comment": "<p>NON-STANDARD</p>", "src": "appDev/node_modules/jsdom/node_modules/cssom/lib/CSSStyleSheet.js", "line": 68, "children": []})

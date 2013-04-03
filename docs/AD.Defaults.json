@@ -1,0 +1,1 @@
+c({"name": "AD.Defaults", "type": "class", "comment": "<p>The default site settings from our configuration file (appDev/node_modules/defaults.js).</p>", "parents": ["AD_Server"], "src": "appDev/node_modules/AD.js", "line": 68, "children": []})

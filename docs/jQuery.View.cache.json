@@ -1,0 +1,1 @@
+c({"name": "jQuery.View.cache", "type": "attribute", "parents": ["jQuery.View"], "comment": "<p><p>Should the views be cached or reloaded from the server. Defaults to true.</p>Should the views be cached or reloaded from the server. Defaults to true.</p>", "src": "appDev/data/scripts/steal/build/pluginify/test/app/steal.build.pluginify.test.app.js", "line": 7201, "children": []})

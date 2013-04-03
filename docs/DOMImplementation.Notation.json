@@ -1,0 +1,1 @@
+c({"name": "DOMImplementation.Notation", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["DOMImplementation"], "comment": "", "author": "envjs team", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 5308, "children": []})

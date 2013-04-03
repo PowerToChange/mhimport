@@ -1,0 +1,1 @@
+c({"name": "name_slice", "type": "attribute", "comment": "<p>Slices an array, returns a string by joining the sliced elements.\n@example</p>\n\n<blockquote>\n  <p>name_slice(['TC1', 'TC1.1', 'mytest'], 1);\n   \"TC1,TC1.1\"</p>\n</blockquote>", "src": "appDev/node_modules/nodeunit/lib/reporters/nested.js", "line": 99, "children": []})

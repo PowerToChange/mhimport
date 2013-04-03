@@ -1,0 +1,1 @@
+c({"name": "jQuery.View.hookups", "type": "attribute", "parents": ["jQuery.View"], "comment": "<p><p>A list of pending 'hookups'</p>A list of pending 'hookups'</p>", "hide": true, "src": "appDev/data/scripts/steal/build/pluginify/test/app/steal.build.pluginify.test.app.js", "line": 7178, "children": []})

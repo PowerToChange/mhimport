@@ -1,0 +1,1 @@
+c({"name": "refreshSprite", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>This function refresh a unique sprite here 'this' represent a dom object</p>", "src": "appDev/modules/sketchGamez/data/scripts/jquery.gamequery-0.5.1.js", "line": 158, "children": []})

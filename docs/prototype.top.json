@@ -1,0 +1,1 @@
+c({"name": "prototype.top", "type": "attribute", "parents": ["prototype"], "comment": "<p>Same as x()</p>", "ret": {"description": "", "type": "Number"}, "src": "appDev/data/scripts/funcunit/test/jquery.event.drag.js", "line": 91, "children": []})

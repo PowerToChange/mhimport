@@ -1,0 +1,1 @@
+c({"name": "HTMLDocument.KeyboardEvents", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["HTMLDocument"], "comment": "<p>@name KeyboardEvents\n@w3c:domlevel 2 \n@uri http://www.w3.org/TR/2000/REC-DOM-Level-2-Events-20001113/events.html</p>", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 7956, "children": []})

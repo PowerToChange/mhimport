@@ -1,0 +1,1 @@
+c({"name": "hasPermission", "type": "attribute", "comment": "<p>Verify that the current viewer has permission to export translations</p>", "src": "appDev/modules/appRAD/interfaces/portal/services/datatrans_import.js", "line": 63, "children": []})

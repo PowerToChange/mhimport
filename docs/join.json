@@ -1,0 +1,1 @@
+c({"name": "join", "type": "attribute", "comment": "<p>Joins a user to a room.</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/socket.io/lib/socket.js", "line": 157, "children": []})

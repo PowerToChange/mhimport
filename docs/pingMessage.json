@@ -1,0 +1,1 @@
+c({"name": "pingMessage", "type": "attribute", "comment": "<p>Benchmarks.</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/bench/WebSocket.benchmark.js", "line": 33, "children": []})

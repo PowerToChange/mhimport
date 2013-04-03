@@ -1,0 +1,1 @@
+c({"name": "Envjs.gc", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Platform clean up hook if it ever makes sense - see Envjs.unloadFrame for example</p>", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 1830, "children": []})

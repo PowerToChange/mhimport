@@ -1,0 +1,1 @@
+c({"name": "app_install.copySetup", "type": "function", "parents": ["app_install"], "comment": "<h3>copySetup</h3>\n\n<p>Copy <code>/data/appDev_setup_xxxx.tpl</code>  to <code>/data/appDev_setup_xxxx.sql</code></p>", "src": "appDev/install/app_install.js", "line": 338, "children": []})

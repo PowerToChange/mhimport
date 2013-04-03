@@ -1,0 +1,1 @@
+c({"name": "move", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Calculate and perform a move for our object.  We'll use\nthe field dimensions from our playfield to determine when to\n\"bounce\".</p>", "src": "appDev/modules/sketchGamez/data/units/hordscorpion/hordscorpion.js", "line": 371, "children": []})

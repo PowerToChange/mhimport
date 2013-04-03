@@ -1,0 +1,1 @@
+c({"name": "Something", "type": "class", "comment": "<h2>boom</h2>\n\n<p>[Bar]</p>\n\n<p>goes\nblah</p>", "construct": "<p>foo bar\nman</p>", "ret": {"type": "something", "description": ""}, "tags": ["home"], "src": "appDev/data/scripts/documentjs/test/something.js", "line": 0, "children": ["Something.prototype", "Something.static"]})

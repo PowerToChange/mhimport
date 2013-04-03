@@ -1,0 +1,1 @@
+c({"name": "compile", "type": "attribute", "comment": "<p>Compiles the supplied origins to a Flash Policy File format and stores it in a Node.js Buffer\nthis way it can be send over the wire without any performance loss.</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/socket.io/node_modules/policyfile/lib/server.js", "line": 158, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "CSSStyleDeclaration", "type": "attribute", "comment": "<p>@see http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSStyleDeclaration</p>", "construct": "", "ret": {"type": "cssstyledeclaration", "description": ""}, "src": "appDev/node_modules/jsdom/node_modules/cssom/lib/CSSStyleDeclaration.js", "line": 5, "children": []})

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/model/test/qunit
+END
+qunit.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/model/test/qunit/qunit.js
+END
+associations_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/model/test/qunit/associations_test.js
+END
+findAll.json
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/model/test/qunit/findAll.json
+END
+model_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/model/test/qunit/model_test.js
+END

@@ -1,0 +1,13 @@
+
+// setup the default lang_code for the existing labels on the page
+AD.Lang.Labels.setCurrLangKey("<%- lang.language_code %>");
+
+AD.Lang.Labels.initialInterfaceLoadQueue = [];
+<% 
+for (var indx=0; indx<listLabelPaths.length; indx++) {
+
+    var path = listLabelPaths[indx]; %>
+AD.Lang.Labels.initialInterfaceLoadQueue.push('<%- path %>');<% 
+}
+
+%>

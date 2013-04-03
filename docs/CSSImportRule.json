@@ -1,0 +1,1 @@
+c({"name": "CSSImportRule", "type": "attribute", "comment": "<p>@see http://dev.w3.org/csswg/cssom/#cssimportrule\n@see http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSImportRule</p>", "construct": "", "ret": {"type": "cssimportrule", "description": ""}, "src": "appDev/node_modules/jsdom/node_modules/cssom/lib/CSSImportRule.js", "line": 9, "children": []})

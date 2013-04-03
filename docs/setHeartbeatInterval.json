@@ -1,0 +1,1 @@
+c({"name": "setHeartbeatInterval", "type": "attribute", "comment": "<p>Removes heartbeat timeouts for polling.</p>", "src": "appDev/node_modules/socket.io/lib/transports/http-polling.js", "line": 45, "children": []})

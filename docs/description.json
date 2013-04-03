@@ -1,0 +1,1 @@
+c({"name": "description", "type": "attribute", "comment": "<p>Adds a short description.</p>", "hide": true, "tags": ["documentation"], "parents": ["DocumentJS.tags"], "src": "appDev/data/scripts/documentjs/tags/description.js", "line": 1, "children": []})

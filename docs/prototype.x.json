@@ -1,0 +1,1 @@
+c({"name": "prototype.x", "type": "attribute", "parents": ["prototype"], "comment": "<p>Returns the 2nd value of the vector</p>", "ret": {"description": "", "type": "Number"}, "src": "appDev/data/scripts/funcunit/test/jquery.event.drag.js", "line": 79, "children": []})

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/scaffold/create
+END
+funcunit.html.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/scaffold/create/funcunit.html.ejs
+END
+create_test.js.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/scaffold/create/create_test.js.ejs
+END
+create.js.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/scaffold/create/create.js.ejs
+END
+create.html.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/scaffold/create/create.html.ejs
+END

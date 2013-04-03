@@ -1,0 +1,1 @@
+c({"name": "escape", "params": {"s": {"description": "", "type": "", "optional": false, "order": 0, "name": "s"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Does away with nasty characters</p>", "src": "appDev/node_modules/mailer/vendor/mustache.js", "line": 247, "children": []})

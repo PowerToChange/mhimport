@@ -1,0 +1,1 @@
+c({"name": "._appdev", "type": "directory", "comment": "<p>This is the root directory for the appDev framework.</p>", "parents": ["Directory_Structure"], "src": "appDev/Documentation/docs.js", "line": 44, "children": ["__._views", "__._node_modules", "__._install", "__._data", "__._modules", "___.app.js", "___.instdocs.sh", "___.summary.ejs"]})

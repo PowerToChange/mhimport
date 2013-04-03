@@ -1,0 +1,1 @@
+c({"name": "app_install.copyIndex", "type": "function", "parents": ["app_install"], "comment": "<h3>copyIndex</h3>\n\n<p>Copy <code>/install/data/index.tpl'  to</code>index.html`</p>", "src": "appDev/install/app_install.js", "line": 317, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "__proto__", "type": "attribute", "comment": "<p>Inherit from <code>EventEmitter.prototype</code>.</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/lib/commander.js", "line": 93, "children": []})

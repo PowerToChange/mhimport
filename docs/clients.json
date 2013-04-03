@@ -1,0 +1,1 @@
+c({"name": "clients", "type": "attribute", "comment": "<p>Retrieves all clients as Socket instances as an array.</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/socket.io/lib/namespace.js", "line": 43, "children": []})

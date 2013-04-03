@@ -1,0 +1,1 @@
+c({"name": "errorDelay_", "type": "attribute", "comment": "<p>Delay between reporting errors. Increases dynamically.</p>", "attribute_type": "@type ", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/app.js", "line": 13432, "children": []})

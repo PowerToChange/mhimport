@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnCode/!svn/ver/11417/appDev/trunk/test
+END
+logtest.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnCode/!svn/ver/11371/appDev/trunk/test/logtest.js
+END
+comm_servicetest.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnCode/!svn/ver/11417/appDev/trunk/test/comm_servicetest.js
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnCode/!svn/ver/11369/appDev/trunk/test/test.js
+END

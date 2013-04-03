@@ -1,0 +1,1 @@
+c({"name": "prototype.cancel", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["prototype"], "comment": "<p>Stops drag drop from running.</p>", "src": "appDev/data/scripts/funcunit/test/jquery.event.drag.js", "line": 664, "children": []})

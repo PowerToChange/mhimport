@@ -1,0 +1,1 @@
+c({"name": "name", "type": "attribute", "comment": "<p>Transport name</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/transports/xhr-polling.js", "line": 39, "children": []})

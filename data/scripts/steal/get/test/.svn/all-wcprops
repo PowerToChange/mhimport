@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/get/test
+END
+stealCode1.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/get/test/stealCode1.js
+END
+.gitmodules
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/get/test/.gitmodules
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/get/test/.gitignore
+END
+get_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/get/test/get_test.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/get/test/README
+END

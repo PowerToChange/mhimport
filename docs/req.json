@@ -1,0 +1,1 @@
+c({"name": "req", "type": "attribute", "comment": "<p>// pull in data from req.body object that matches our model definition\nfor (var key in this.model) {</p>\n\n<pre><code>if (typeof req.body[key] != 'undefined') {\n    currModel[key] = req.body[key];\n}\n</code></pre>\n\n<p>}</p>", "src": "appDev/node_modules/model_SQL.js", "line": 115, "children": []})

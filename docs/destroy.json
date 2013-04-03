@@ -1,0 +1,1 @@
+c({"name": "destroy", "type": "attribute", "comment": "<p>Destroy the established connection, iframe and <code>htmlfile</code>.\nAnd calls the <code>CollectGarbage</code> function of Internet Explorer\nto release the memory.</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/transports/htmlfile.js", "line": 94, "children": []})

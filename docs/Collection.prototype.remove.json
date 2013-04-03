@@ -1,0 +1,1 @@
+c({"name": "Collection.prototype.remove", "params": {}, "ret": {"description": "<p>of routes removed</p>", "type": "Collection"}, "type": "function", "comment": "<p>Remove the routes in this collection.</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/express/lib/router/collection.js", "line": 32, "children": []})

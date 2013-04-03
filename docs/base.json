@@ -1,0 +1,1 @@
+c({"name": "base", "type": "attribute", "comment": "<p>The modules that are required to create a base build of Socket.IO.</p>\n\n<p>@const\n@api private</p>", "attribute_type": "@type ", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/bin/builder.js", "line": 35, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "CSSStyleSheet", "type": "attribute", "comment": "<p>@see http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSStyleSheet</p>", "construct": "", "ret": {"type": "cssstylesheet", "description": ""}, "src": "appDev/node_modules/jsdom/node_modules/cssom/lib/CSSStyleSheet.js", "line": 8, "children": []})

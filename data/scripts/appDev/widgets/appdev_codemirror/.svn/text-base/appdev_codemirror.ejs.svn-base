@@ -1,0 +1,18 @@
+<div id="" class="appdev-codemirror">
+<div class="ui-accordian-header ui-state-default" style="position:relative;" >
+    <div >
+		<div class="" style="float:right">
+		  <button id="btnReload" class="btn btn-mini" style="padding: 0px;" ><i class='icon-refresh'></i> </button>
+		  <button id="btnSave" class="btn btn-mini" style="padding: 0px;" ><i class='icon-check'></i> </button>
+		  <div id='busy' class="loading-anim-container" style="float:left;">
+			<div class="loading-anim"></div>
+		  </div>
+		</div>
+		
+		<div class="title" style="float:left">[Title]</div>
+		<div class="clear">&nbsp;</div>
+    </div>
+</div>
+
+<div id='codeMirror'></div>
+</div>

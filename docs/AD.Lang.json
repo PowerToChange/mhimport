@@ -1,0 +1,1 @@
+c({"name": "AD.Lang", "type": "class", "comment": "<p>Shared resources related to Language.</p>\n\n<p>AD.Lang : our multilingual tools.</p>", "parents": ["AD_Server"], "src": "appDev/node_modules/AD.js", "line": 78, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "items", "type": "attribute", "comment": "<p>According to QuirksMode:\nGet the sourceIndex of element x. This is also the index number for\nthe element in the document.getElementsByTagName('*') array.\nhttp://www.quirksmode.org/dom/w3c_core.html#t77</p>", "src": "appDev/node_modules/jsdom/lib/jsdom/browser/index.js", "line": 399, "children": []})

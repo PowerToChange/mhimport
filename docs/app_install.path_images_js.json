@@ -1,0 +1,1 @@
+c({"name": "app_install.path_images_js", "type": "attribute", "parents": ["app_install"], "comment": "<h3>Path: <code>/images/*.js</code></h3>\n\n<p>This serves up the image files required by the initial wizard HTML\ndocument.</p>", "src": "appDev/install/app_install.js", "line": 641, "children": []})

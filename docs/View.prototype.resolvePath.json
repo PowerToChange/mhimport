@@ -1,0 +1,1 @@
+c({"name": "View.prototype.resolvePath", "params": {}, "ret": {"description": "", "type": "String"}, "type": "function", "comment": "<p>Resolve view path.</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/express/lib/view/view.js", "line": 90, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "getPropertyShorthand", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>element.style.overflow = \"auto\"\nelement.style.getPropertyShorthand(\"overflow-x\")\n-> \"overflow\"</p>", "src": "appDev/node_modules/jsdom/node_modules/cssom/lib/CSSStyleDeclaration.js", "line": 97, "children": []})

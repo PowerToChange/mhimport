@@ -1,0 +1,1 @@
+c({"name": "publish", "type": "attribute", "comment": "<p>Emits the given event to the Socket and all namespaces</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/socket.js", "line": 88, "children": []})

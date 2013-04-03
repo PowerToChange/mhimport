@@ -1,0 +1,1 @@
+c({"name": "CSSStyleRule", "type": "attribute", "comment": "<p>@see http://dev.w3.org/csswg/cssom/#cssstylerule\n@see http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSStyleRule</p>", "construct": "", "ret": {"type": "cssstylerule", "description": ""}, "src": "appDev/node_modules/jsdom/node_modules/cssom/lib/CSSStyleRule.js", "line": 8, "children": []})

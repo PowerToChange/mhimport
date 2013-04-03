@@ -1,0 +1,1 @@
+c({"name": "RFC5789", "type": "attribute", "comment": "<p>PATCH Method for HTTP \nhttp://www.ietf.org/rfc/rfc5789.txt</p>", "src": "appDev/node_modules/express/lib/router/methods.js", "line": 49, "children": []})

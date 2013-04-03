@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnCode/!svn/ver/11475/appDev/trunk/data/scripts/appDev/widgets/appdev_codemirror
+END
+appdev_codemirror.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnCode/!svn/ver/11475/appDev/trunk/data/scripts/appDev/widgets/appdev_codemirror/appdev_codemirror.js
+END
+dep_appdev_codemirror.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnCode/!svn/ver/11432/appDev/trunk/data/scripts/appDev/widgets/appdev_codemirror/dep_appdev_codemirror.js
+END
+appdev_codemirror.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnCode/!svn/ver/11441/appDev/trunk/data/scripts/appDev/widgets/appdev_codemirror/appdev_codemirror.ejs
+END
+labels_en.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnCode/!svn/ver/11432/appDev/trunk/data/scripts/appDev/widgets/appdev_codemirror/labels_en.js
+END

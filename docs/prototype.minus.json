@@ -1,0 +1,1 @@
+c({"name": "prototype.minus", "params": {}, "ret": {"description": "", "type": "jQuery.Vector"}, "type": "function", "parents": ["prototype"], "comment": "<p>Like plus but subtracts 2 vectors</p>", "src": "appDev/data/scripts/funcunit/test/jquery.event.drag.js", "line": 52, "children": []})

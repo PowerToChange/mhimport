@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib
+END
+io.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/io.js
+END
+socket.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/socket.js
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/util.js
+END
+transport.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/transport.js
+END

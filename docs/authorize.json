@@ -1,0 +1,1 @@
+c({"name": "authorize", "type": "attribute", "comment": "<p>Performs authentication.</p>\n\n<p>@api private</p>", "params": {"data": {"order": 0, "description": "", "name": "data", "type": "Object client request", "optional": false}}, "src": "appDev/node_modules/socket.io/lib/namespace.js", "line": 233, "children": []})

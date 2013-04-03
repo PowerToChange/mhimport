@@ -1,0 +1,1 @@
+c({"name": "WebSocket.prototype.terminate", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Immediately shuts down the connection</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/WebSocket.js", "line": 341, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "HTMLDocument.deleteRule", "params": {"index": {"description": "", "type": "", "optional": false, "order": 0, "name": "index"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["HTMLDocument"], "comment": "<p>TODO</p>", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 11980, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "document.getElementsByClassName", "params": {"instanceMethods": {"description": "", "type": "", "optional": false, "order": 0, "name": "instanceMethods"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<hr />", "src": "appDev/data/scripts/funcunit/test/protodrag/prototype.js", "line": 4803, "children": []})

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates
+END
+scaffoldHookup.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/scaffoldHookup.ejs
+END
+fixturemake.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/fixturemake.ejs
+END
+model.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/model.js
+END
+page.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/page.ejs
+END

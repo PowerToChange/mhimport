@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/vendor/web-socket-js/flash-src
+END
+WebSocketMain.as
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/vendor/web-socket-js/flash-src/WebSocketMain.as
+END
+IWebSocketLogger.as
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/vendor/web-socket-js/flash-src/IWebSocketLogger.as
+END
+WebSocketMainInsecure.as
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/vendor/web-socket-js/flash-src/WebSocketMainInsecure.as
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/vendor/web-socket-js/flash-src/build.sh
+END
+WebSocket.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/vendor/web-socket-js/flash-src/WebSocket.as
+END
+WebSocketEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/vendor/web-socket-js/flash-src/WebSocketEvent.as
+END

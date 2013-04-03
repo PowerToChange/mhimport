@@ -1,0 +1,1 @@
+c({"name": "Envjs.log", "params": {"message": {"description": "", "type": "String", "optional": false, "order": 0, "name": "message"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Writes message to system out</p>", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 114, "children": []})

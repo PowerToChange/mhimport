@@ -1,0 +1,1 @@
+c({"name": "authCAS.exports.setLabels", "params": {"labels": {"description": "", "type": "", "optional": false, "order": 0, "name": "labels"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["authCAS"], "comment": "<p>Pass in the labels.</p>", "src": "appDev/node_modules/auth-cas.js", "line": 68, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "AD.App.Page.addJavascripts.Interface", "type": "attribute", "parents": ["AD.App.Page.addJavascripts"], "comment": "<p>AD.App</p>\n\n<p>Resources necessary for an application to plug into the framework.</p>\n\n<p>AD.App.Interface : The interface object.\nAD.App.Module : The Module object</p>", "src": "appDev/node_modules/AD.js", "line": 617, "children": []})

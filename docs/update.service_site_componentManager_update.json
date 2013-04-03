@@ -1,0 +1,1 @@
+c({"name": "update.service_site_componentManager_update", "type": "attribute", "parents": ["update"], "comment": "<h3>route: /service/site/componentManager/update</h3>", "src": "appDev/modules/site/interfaces/componentManager/services/update.js", "line": 224, "children": []})

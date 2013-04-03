@@ -1,0 +1,1 @@
+c({"name": "unit", "type": "attribute", "comment": "<p>SG.units['player'] = new SG.HumanMale.mapAnimation({\n    guid:'player',\n    layerID:'actors',\n    position: { x:(this.playgroundWidth/2)+32 ,y:(this.playgroundHeight/2)+32 },</p>\n\n<p>});</p>", "src": "appDev/modules/sketchGamez/interfaces/unitViewer/scripts/UI.js", "line": 65, "children": []})

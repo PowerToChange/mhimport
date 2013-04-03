@@ -1,0 +1,1 @@
+c({"name": "Event.UIEvent", "params": {"options": {"description": "", "type": "Object", "optional": false, "order": 0, "name": "options"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["Event"], "comment": "<p>@name UIEvent</p>", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 6394, "children": []})

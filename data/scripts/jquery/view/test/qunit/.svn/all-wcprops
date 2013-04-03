@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/view/test/qunit
+END
+template.micro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/view/test/qunit/template.micro
+END
+hookupvalcall.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/view/test/qunit/hookupvalcall.ejs
+END
+qunit.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/view/test/qunit/qunit.js
+END
+plugin.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/view/test/qunit/plugin.ejs
+END
+deferreds.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/view/test/qunit/deferreds.ejs
+END
+temp.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/view/test/qunit/temp.ejs
+END
+template.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/view/test/qunit/template.tmpl
+END
+template.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/view/test/qunit/template.ejs
+END
+template.jaml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/view/test/qunit/template.jaml
+END
+large.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/view/test/qunit/large.ejs
+END
+nested_plugin.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/view/test/qunit/nested_plugin.ejs
+END
+view_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/view/test/qunit/view_test.js
+END
+hookup.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/view/test/qunit/hookup.ejs
+END
+deferred.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/view/test/qunit/deferred.ejs
+END

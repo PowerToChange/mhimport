@@ -1,0 +1,1 @@
+c({"name": "protocolVersion", "type": "attribute", "comment": "<p>Websocket draft version</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/socket.io/lib/transports/websocket/hybi-16.js", "line": 76, "children": []})

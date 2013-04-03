@@ -1,0 +1,74 @@
+10
+
+dir
+11477
+http://svn.dodomail.net/svnCode/appDev/trunk/modules/site/interfaces/email
+http://svn.dodomail.net/svnCode
+
+
+
+2012-04-10T05:52:15.537058Z
+11319
+jchan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+41632e5b-730d-0410-a058-8b611568eb07
+
+containers
+dir
+
+node_email.js
+file
+
+
+
+
+2012-04-19T04:21:10.000000Z
+b1248c3075ccfa0e29e2c8260e12cc81
+2012-04-10T05:52:15.537058Z
+11319
+jchan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5922
+
+scripts
+dir
+
+services
+dir
+
+views
+dir
+

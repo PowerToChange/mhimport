@@ -1,0 +1,1 @@
+c({"name": "prototype.equals", "params": {}, "ret": {"description": "", "type": "jQuery.Vector"}, "type": "function", "parents": ["prototype"], "comment": "<p>Returns the current vector if it is equal to the vector passed in. <br />\nFalse if otherwise.</p>", "src": "appDev/data/scripts/funcunit/test/jquery.event.drag.js", "line": 65, "children": []})

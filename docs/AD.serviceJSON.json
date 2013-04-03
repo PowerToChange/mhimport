@@ -1,0 +1,1 @@
+c({"name": "AD.serviceJSON", "type": "class", "comment": "<p>Post an Ajax request synchronously.</p>", "parents": ["services"], "src": "appDev/data/scripts/appDev/communications/services/serviceJSON.js", "line": 12, "children": ["AppDev.ServiceJSON.post"]})

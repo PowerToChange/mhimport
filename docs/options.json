@@ -1,0 +1,1 @@
+c({"name": "options", "type": "attribute", "comment": "<p>Act as server client</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/WebSocket.js", "line": 30, "children": []})

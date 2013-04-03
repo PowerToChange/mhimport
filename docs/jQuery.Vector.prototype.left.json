@@ -1,0 +1,1 @@
+c({"name": "jQuery.Vector.prototype.left", "type": "attribute", "parents": ["jQuery.Vector.prototype"], "comment": "<p><p>same as y()</p>same as x()</p>", "ret": {"description": "", "type": "Number"}, "src": "appDev/data/scripts/jquery/lang/vector/vector.js", "line": 84, "children": []})

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnCode/!svn/ver/11211/appDev_Modules/appRAD/trunk/install/data
+END
+appRAD_setup_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnCode/!svn/ver/11211/appDev_Modules/appRAD/trunk/install/data/appRAD_setup_mysql.sql
+END

@@ -1,0 +1,1 @@
+c({"name": "_constructIndex", "params": {"node": {"description": "", "type": "", "optional": false, "order": 0, "name": "node"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Construct a [i] index for a particular node </p>", "src": "appDev/data/scripts/funcunit/test/protodrag/dragdrop.js", "line": 889, "children": []})

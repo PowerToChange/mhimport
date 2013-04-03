@@ -1,0 +1,1 @@
+c({"name": "getAllResponseHeaders", "params": {}, "ret": {"description": "<p>string </p>", "type": undefined}, "type": "function", "comment": "<p>Gets all the response headers.</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/XMLHttpRequest.js", "line": 113, "children": []})

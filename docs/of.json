@@ -1,0 +1,1 @@
+c({"name": "of", "type": "attribute", "comment": "<p>Returns a namespace listener/emitter for this socket</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/socket.js", "line": 70, "children": []})

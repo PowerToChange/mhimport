@@ -1,0 +1,1 @@
+c({"name": "setHeartbeatTimeout", "type": "attribute", "comment": "<p>Sets the heartbeat timeout</p>", "src": "appDev/node_modules/socket.io/lib/transport.js", "line": 256, "children": []})

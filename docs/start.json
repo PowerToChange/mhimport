@@ -1,0 +1,1 @@
+c({"name": "start", "type": "attribute", "comment": "<p>Start the benchmark</p>", "src": "appDev/node_modules/socket.io/benchmarks/runner.js", "line": 48, "children": []})

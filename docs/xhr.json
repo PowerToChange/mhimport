@@ -1,0 +1,1 @@
+c({"name": "XHR", "type": "attribute", "comment": "<p>Expose constructor.</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/transports/xhr.js", "line": 9, "children": []})

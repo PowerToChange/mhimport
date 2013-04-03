@@ -1,0 +1,1 @@
+c({"name": "setFlags", "type": "attribute", "comment": "<p>Resets flags</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/socket.io/lib/socket.js", "line": 130, "children": []})

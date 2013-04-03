@@ -1,0 +1,1 @@
+c({"name": "onHandshake", "type": "attribute", "comment": "<p>Called when a client handshakes.</p>", "params": {}, "src": "appDev/node_modules/socket.io/lib/manager.js", "line": 310, "children": []})

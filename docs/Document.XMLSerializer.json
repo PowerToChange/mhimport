@@ -1,0 +1,1 @@
+c({"name": "Document.XMLSerializer", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["Document"], "comment": "", "author": "envjs team", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 5822, "children": []})

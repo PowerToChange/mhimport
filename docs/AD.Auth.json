@@ -1,0 +1,1 @@
+c({"name": "AD.Auth", "type": "class", "comment": "<p>The Authentication interface for the framework.</p>", "parents": ["AD_Server"], "src": "appDev/node_modules/AD.js", "line": 182, "children": []})

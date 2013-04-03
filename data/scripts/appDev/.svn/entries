@@ -1,0 +1,81 @@
+10
+
+dir
+11477
+http://svn.dodomail.net/svnCode/appDev/trunk/data/scripts/appDev
+http://svn.dodomail.net/svnCode
+
+
+
+2012-05-24T06:57:50.269794Z
+11475
+dcox
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+41632e5b-730d-0410-a058-8b611568eb07
+
+
+
+
+
+
+0
+
+appDev.js
+file
+11478
+
+
+
+2012-05-15T08:22:11.000000Z
+067d1a15b7a33efb5c7eb92bf8244547
+2012-05-24T09:51:46.666837Z
+11478
+jhausman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23618
+
+communications
+dir
+
+lang
+dir
+
+model
+dir
+
+widgets
+dir
+

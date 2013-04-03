@@ -1,0 +1,1 @@
+c({"name": "jsworld.Locale._className", "type": "attribute", "parents": ["jsworld.Locale"], "comment": "<p>@private</p>", "description": "Identifies the class for internal library purposes.", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/uglify-hangs.js", "line": 999, "children": []})

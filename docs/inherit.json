@@ -1,0 +1,1 @@
+c({"name": "inherit", "type": "attribute", "comment": "<p>Shortcut for prototypical and static inheritance.</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/util.js", "line": 247, "children": []})

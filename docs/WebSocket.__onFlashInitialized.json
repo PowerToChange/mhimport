@@ -1,0 +1,1 @@
+c({"name": "WebSocket.__onFlashInitialized", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Called by Flash to notify JS that it's fully loaded and ready\nfor communication.</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/web_socket.js", "line": 265, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "AD_Client.listLabels", "type": "attribute", "parents": ["AD_Client"], "comment": "<p>Repository for javascript based labels.</p>", "src": "appDev/data/scripts/appDev/appDev.js", "line": 18, "children": []})

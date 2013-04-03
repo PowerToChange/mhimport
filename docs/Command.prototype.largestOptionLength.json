@@ -1,0 +1,1 @@
+c({"name": "Command.prototype.largestOptionLength", "params": {}, "ret": {"description": "", "type": "Number"}, "type": "function", "comment": "<p>Return the largest option length.</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/lib/commander.js", "line": 621, "children": []})

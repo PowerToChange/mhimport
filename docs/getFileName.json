@@ -1,0 +1,1 @@
+c({"name": "getFileName", "type": "attribute", "comment": "<p>Gets the filename of the JavaScript file that invokes this function.\nUsed to help find the root directory of a module.</p>", "src": "appDev/node_modules/jsdom/node_modules/contextify/node_modules/bindings/bindings.js", "line": 89, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "AD.Comm.Email", "type": "class", "comment": "<p>An object to send email using the node mailer module</p>", "parents": ["AD.Comm"], "src": "appDev/node_modules/comm_email.js", "line": 0, "children": ["AD.Comm.Email.sendMail"]})

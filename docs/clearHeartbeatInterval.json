@@ -1,0 +1,1 @@
+c({"name": "clearHeartbeatInterval", "type": "attribute", "comment": "<p>Clears the heartbeat interval</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/socket.io/lib/transport.js", "line": 393, "children": []})

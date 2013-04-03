@@ -1,0 +1,1 @@
+c({"name": "WAIT_INTERVAL", "type": "attribute", "comment": "<p>Interval to wait on event loop when nothing is happening</p>", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 1273, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "is_cross_domain", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Is the file on the same domain as our page.</p>", "src": "appDev/data/scripts/steal/rhino/file.js", "line": 153, "children": []})

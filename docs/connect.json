@@ -1,0 +1,1 @@
+c({"name": "connect", "type": "attribute", "comment": "<p>Connects to the server.</p>\n\n<p>@returns {io.Socket}\n@api public</p>", "params": {"fn": {"order": 0, "description": "<p>Callback.</p>", "name": "fn", "type": "Function", "optional": true}}, "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/socket.js", "line": 186, "children": []})

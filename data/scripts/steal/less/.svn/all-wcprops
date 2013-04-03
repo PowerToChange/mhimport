@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/less
+END
+less.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/less/less.html
+END
+qunit.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/less/qunit.html
+END
+less.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/less/less.js
+END
+less.less
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/less/less.less
+END
+less_demo.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/less/less_demo.js
+END
+less_engine.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/less/less_engine.js
+END
+less_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/less/less_test.js
+END

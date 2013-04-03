@@ -1,0 +1,1 @@
+c({"name": "xdomainCheck", "type": "attribute", "comment": "<p>Check if the XHR transport supports corss domain requests.</p>\n\n<p>@returns {Boolean}\n@api public</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/transports/xhr.js", "line": 197, "children": []})

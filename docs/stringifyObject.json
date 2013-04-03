@@ -1,0 +1,1 @@
+c({"name": "stringifyObject", "type": "attribute", "comment": "<p>For debugging and unit tests: returnjs a stringified version of the\nargument. </p>", "src": "appDev/node_modules/jsdom/lib/jsdom/level3/xpath.js", "line": 1546, "children": []})

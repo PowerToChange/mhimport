@@ -1,0 +1,1 @@
+c({"name": "Router.prototype.all", "params": {}, "ret": {"description": "", "type": "Collection"}, "type": "function", "comment": "<p>Return a <code>Collection</code> of all routes defined.</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/express/lib/router/index.js", "line": 85, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "app.remove", "params": {"path": {"description": "", "type": "Route", "optional": false, "order": 0, "name": "path"}}, "ret": {"description": "", "type": "Boolean"}, "type": "function", "comment": "<p>Remove routes matching the given <code>path</code>.</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/express/lib/http.js", "line": 136, "children": []})

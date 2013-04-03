@@ -1,0 +1,1 @@
+c({"name": "accepts", "type": "attribute", "comment": "<p>timeout: 0,\ndata: null,\ndataType: null,\nusername: null,\npassword: null,\ncache: null,\ntraditional: false,\nheaders: {},</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/app.js", "line": 7011, "children": []})

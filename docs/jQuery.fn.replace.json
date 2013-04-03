@@ -1,0 +1,1 @@
+c({"name": "jQuery.fn.replace", "type": "function", "parents": ["jQuery.View", "jQuery.fn"], "comment": "<p>abc</p>", "src": "appDev/data/scripts/steal/build/pluginify/test/app/steal.build.pluginify.test.app.js", "line": 7399, "children": []})

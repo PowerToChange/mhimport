@@ -1,0 +1,1 @@
+c({"name": "core.Node.prototype.hasAttributes", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>return boolean </p>", "src": "appDev/node_modules/jsdom/lib/jsdom/level2/core.js", "line": 154, "children": []})

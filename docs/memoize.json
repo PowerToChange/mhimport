@@ -1,0 +1,1 @@
+c({"name": "memoize", "type": "attribute", "comment": "<p>async.info = <em>console</em>fn('info');\n    async.warn = <em>console</em>fn('warn');\n    async.error = <em>console</em>fn('error');</p>", "src": "appDev/node_modules/nodeunit/examples/browser/nodeunit.js", "line": 1095, "children": []})

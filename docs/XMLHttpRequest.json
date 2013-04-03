@@ -1,0 +1,1 @@
+c({"name": "XMLHttpRequest", "type": "class", "comment": "", "author": "Originally implemented by Yehuda Katz", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 24433, "children": ["XMLHttpRequest.contentDocument", "XMLHttpRequest.History", "XMLHttpRequest.Screen", "XMLHttpRequest.resizeBy", "XMLHttpRequest.Window", "XMLHttpRequest.getComputedStyle"]})

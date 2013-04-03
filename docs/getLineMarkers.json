@@ -1,0 +1,1 @@
+c({"name": "getLineMarkers", "type": "attribute", "comment": "<p>returns reference to set of the raphael's objects(circles)\n        what represents markers for the line data with given index </p>", "src": "appDev/data/scripts/wijmo/jquery.wijmo-complete.1.4.0.js", "line": 28803, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "clearPollTimeout", "type": "attribute", "comment": "<p>Clears polling timeout</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/socket.io/lib/transports/http-polling.js", "line": 74, "children": []})

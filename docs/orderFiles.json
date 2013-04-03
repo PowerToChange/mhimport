@@ -1,0 +1,1 @@
+c({"name": "orderFiles", "params": {"appFiles": {"description": "", "type": "Object", "optional": false, "order": 0, "name": "appFiles"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Adds an order to a directed acyclic graph </p>", "src": "appDev/data/scripts/steal/build/apps/apps.js", "line": 72, "children": []})

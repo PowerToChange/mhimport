@@ -1,0 +1,1 @@
+c({"name": "WebSocket.__isFlashLite", "params": {}, "ret": {"description": "<p>True if flash lite is running, false otherwise.</p>", "type": "boolean"}, "type": "function", "comment": "<p>Test if the browser is running flash lite.</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/web_socket.js", "line": 321, "children": []})

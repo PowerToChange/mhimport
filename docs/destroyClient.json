@@ -1,0 +1,1 @@
+c({"name": "destroyClient", "type": "attribute", "comment": "<p>Destroys a client</p>\n\n<p>@api {String} sid\n@api private</p>", "params": {"number": {"order": 0, "description": "<p>of seconds to expire client data</p>", "name": "number", "type": "Number", "optional": false}}, "src": "appDev/node_modules/socket.io/lib/store.js", "line": 51, "children": []})

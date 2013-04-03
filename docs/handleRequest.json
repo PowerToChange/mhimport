@@ -1,0 +1,1 @@
+c({"name": "handleRequest", "type": "attribute", "comment": "<p>Handles a request.</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/socket.io/lib/transports/http.js", "line": 37, "children": []})

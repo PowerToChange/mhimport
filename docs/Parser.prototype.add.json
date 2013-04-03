@@ -1,0 +1,1 @@
+c({"name": "Parser.prototype.add", "params": {"data": {"description": "", "type": "", "optional": false, "order": 0, "name": "data"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Add new data to the parser.</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/socket.io/lib/transports/websocket/hybi-16.js", "line": 443, "children": []})

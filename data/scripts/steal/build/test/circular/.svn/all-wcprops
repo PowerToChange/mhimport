@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/build/test/circular
+END
+fileB.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/build/test/circular/fileB.js
+END
+fileA.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/build/test/circular/fileA.js
+END
+prod.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/build/test/circular/prod.html
+END
+circular.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/build/test/circular/circular.js
+END
+circular.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/build/test/circular/circular.html
+END

@@ -1,0 +1,1 @@
+c({"name": "Envjs.loadInlineScript", "params": {"script": {"description": "", "type": "Object", "optional": false, "order": 0, "name": "script"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>load and execute script tag text content</p>", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 301, "children": []})

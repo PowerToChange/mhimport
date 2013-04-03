@@ -1,0 +1,1 @@
+c({"name": "Envjs.onExit", "params": {"callback": {"description": "", "type": "", "optional": false, "order": 0, "name": "callback"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>provides callback hook for when the system exits</p>", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 1982, "children": []})

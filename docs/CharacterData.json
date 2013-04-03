@@ -1,0 +1,1 @@
+c({"name": "CharacterData", "type": "class", "comment": "<p>@extends Node</p>", "params": {"node.": {"order": 0, "description": "", "name": "node.", "type": "ownerDocument : The Document object associated with this", "optional": false}}, "src": "appDev/data/scripts/steal/rhino/env.js", "line": 4116, "children": []})

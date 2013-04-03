@@ -1,0 +1,1 @@
+c({"name": "AD.Comm", "type": "class", "comment": "<p>A collection of Communications resources.</p>", "parents": ["AD_Server"], "src": "appDev/node_modules/AD.js", "line": 197, "children": ["AD.Comm.Notification", "AD.Comm.Service", "AD.Comm.Email", "AD.Comm.Dispatch", "AD.Comm.Email", "AD.Comm.Notification"]})

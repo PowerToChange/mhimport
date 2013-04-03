@@ -1,0 +1,1 @@
+c({"name": "width", "type": "attribute", "comment": "<p>tHeads.sw = _viewTables.sw.createTHead(); // &lt;-- user can fix the whole header only, not a random row.\n                    tHeads.sw = _viewTables.se.createTHead();</p>", "src": "appDev/data/scripts/wijmo/jquery.wijmo-complete.1.4.0.js", "line": 18835, "children": []})

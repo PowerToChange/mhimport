@@ -1,0 +1,1 @@
+c({"name": "isint", "type": "attribute", "comment": "<p>Cache non-integer test regexp.</p>", "src": "appDev/node_modules/express/node_modules/qs/lib/querystring.js", "line": 19, "children": []})

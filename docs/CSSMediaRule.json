@@ -1,0 +1,1 @@
+c({"name": "CSSMediaRule", "type": "attribute", "comment": "<p>@see http://dev.w3.org/csswg/cssom/#cssmediarule\n@see http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSMediaRule</p>", "construct": "", "ret": {"type": "cssmediarule", "description": ""}, "src": "appDev/node_modules/jsdom/node_modules/cssom/lib/CSSMediaRule.js", "line": 8, "children": []})

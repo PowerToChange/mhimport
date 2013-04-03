@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnCode/!svn/ver/11477/appDev_Modules/appRAD/trunk/interfaces/portal/services
+END
+datatrans_export.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnCode/!svn/ver/11321/appDev_Modules/appRAD/trunk/interfaces/portal/services/datatrans_export.js
+END
+labels_export.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnCode/!svn/ver/11321/appDev_Modules/appRAD/trunk/interfaces/portal/services/labels_export.js
+END
+model_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnCode/!svn/ver/11434/appDev_Modules/appRAD/trunk/interfaces/portal/services/model_list.js
+END
+model_create.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnCode/!svn/ver/11476/appDev_Modules/appRAD/trunk/interfaces/portal/services/model_create.js
+END
+module_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnCode/!svn/ver/11479/appDev_Modules/appRAD/trunk/interfaces/portal/services/module_list.js
+END
+view_read.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnCode/!svn/ver/11434/appDev_Modules/appRAD/trunk/interfaces/portal/services/view_read.js
+END
+module_create.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnCode/!svn/ver/11479/appDev_Modules/appRAD/trunk/interfaces/portal/services/module_create.js
+END
+table_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnCode/!svn/ver/11451/appDev_Modules/appRAD/trunk/interfaces/portal/services/table_list.js
+END
+datatrans_import.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnCode/!svn/ver/11321/appDev_Modules/appRAD/trunk/interfaces/portal/services/datatrans_import.js
+END
+module_widget_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnCode/!svn/ver/11437/appDev_Modules/appRAD/trunk/interfaces/portal/services/module_widget_list.js
+END
+service_create.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnCode/!svn/ver/11477/appDev_Modules/appRAD/trunk/interfaces/portal/services/service_create.js
+END
+labels_import.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnCode/!svn/ver/11321/appDev_Modules/appRAD/trunk/interfaces/portal/services/labels_import.js
+END
+view_write.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnCode/!svn/ver/11434/appDev_Modules/appRAD/trunk/interfaces/portal/services/view_write.js
+END
+interface_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnCode/!svn/ver/11434/appDev_Modules/appRAD/trunk/interfaces/portal/services/interface_list.js
+END
+field_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnCode/!svn/ver/11451/appDev_Modules/appRAD/trunk/interfaces/portal/services/field_list.js
+END
+interface_create.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnCode/!svn/ver/11352/appDev_Modules/appRAD/trunk/interfaces/portal/services/interface_create.js
+END
+performanceTest.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnCode/!svn/ver/11321/appDev_Modules/appRAD/trunk/interfaces/portal/services/performanceTest.js
+END
+install_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnCode/!svn/ver/11437/appDev_Modules/appRAD/trunk/interfaces/portal/services/install_list.js
+END
+database_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnCode/!svn/ver/11451/appDev_Modules/appRAD/trunk/interfaces/portal/services/database_list.js
+END
+controller_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnCode/!svn/ver/11434/appDev_Modules/appRAD/trunk/interfaces/portal/services/controller_list.js
+END
+template_site_html.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnCode/!svn/ver/11167/appDev_Modules/appRAD/trunk/interfaces/portal/services/template_site_html.js
+END
+controller_write.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnCode/!svn/ver/11434/appDev_Modules/appRAD/trunk/interfaces/portal/services/controller_write.js
+END
+controller_read.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnCode/!svn/ver/11434/appDev_Modules/appRAD/trunk/interfaces/portal/services/controller_read.js
+END
+svn_remove.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnCode/!svn/ver/11321/appDev_Modules/appRAD/trunk/interfaces/portal/services/svn_remove.js
+END
+view_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnCode/!svn/ver/11434/appDev_Modules/appRAD/trunk/interfaces/portal/services/view_list.js
+END

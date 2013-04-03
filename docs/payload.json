@@ -1,0 +1,1 @@
+c({"name": "payload", "type": "attribute", "comment": "<p>Check if we need to send data to the Socket.IO server, if we have data in our\nbuffer we encode it and forward it to the <code>post</code> method.</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/transports/xhr.js", "line": 56, "children": []})

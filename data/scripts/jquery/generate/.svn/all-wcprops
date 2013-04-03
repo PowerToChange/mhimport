@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate
+END
+app
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/app
+END
+plugin
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/plugin
+END
+scaffold
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/scaffold
+END
+model
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/model
+END
+controller
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/controller
+END
+page
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/page
+END

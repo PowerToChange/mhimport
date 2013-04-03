@@ -1,0 +1,1 @@
+c({"name": "authorization", "type": "attribute", "comment": "<p>Sets authorization for this namespace.</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/socket.io/lib/namespace.js", "line": 209, "children": []})

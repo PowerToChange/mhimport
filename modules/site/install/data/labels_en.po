@@ -1,0 +1,45 @@
+
+#. #########################################
+#. Labels for module: site
+#. Source language: en
+#. Target language: en
+#. #########################################
+
+
+
+#. path: /page/site/login
+#. code: en
+#. key: [site.login.userID]
+msgid "Username"
+msgstr "Username"
+
+#. path: /page/site/login
+#. code: en
+#. key: [site.login.pWord]
+msgid "Password"
+msgstr "Password"
+
+#. path: /page/site/login
+#. code: en
+#. key: [site.login.login]
+msgid "Login"
+msgstr "Login"
+
+#. path: /page/site/login
+#. code: en
+#. key: [site.login.submit]
+msgid "Submit"
+msgstr "Submit"
+
+#. path: /page/site/autherrors
+#. code: en
+#. key: [site.autherrors.Reauthenticate]
+msgid "Reauthenticate"
+msgstr "Reauthenticate"
+
+#. path: /page/site/autherrors
+#. code: en
+#. key: [site.autherrors.InvalidUP]
+msgid "Invalid User ID / Password"
+msgstr "Invalid User ID / Password"
+

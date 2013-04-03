@@ -1,0 +1,1 @@
+c({"name": "defaultEventBehaviors", "type": "attribute", "comment": "<p>TODO: used in ./event/eventtarget.js</p>", "params": {"event": {"order": 0, "description": "", "name": "event", "type": "Object", "optional": false}}, "src": "appDev/data/scripts/steal/rhino/env.js", "line": 136, "children": []})

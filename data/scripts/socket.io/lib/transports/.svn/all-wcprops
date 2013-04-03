@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/transports
+END
+htmlfile.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/transports/htmlfile.js
+END
+websocket.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/transports/websocket.js
+END
+flashsocket.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/transports/flashsocket.js
+END
+xhr.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/transports/xhr.js
+END
+xhr-multipart.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/transports/xhr-multipart.js
+END
+jsonp-polling.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/transports/jsonp-polling.js
+END
+xhr-polling.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnCode/!svn/ver/10480/appDev/trunk/data/scripts/socket.io/lib/transports/xhr-polling.js
+END

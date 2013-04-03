@@ -1,0 +1,1 @@
+c({"name": "XMLHttpRequest.History", "params": {"owner": {"description": "", "type": "", "optional": false, "order": 0, "name": "owner"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["XMLHttpRequest"], "comment": "<p>history.js</p>", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 24704, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "authCAS.routes", "type": "attribute", "parents": ["authCAS"], "comment": "<p>An array of additional routes needed for CAS authentication</p>", "src": "appDev/node_modules/auth-cas.js", "line": 369, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "close", "type": "attribute", "comment": "<p>Disconnects the established <code>XHR</code> connection.</p>\n\n<p>@returns {Transport} \n@api public</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/transports/xhr.js", "line": 128, "children": []})

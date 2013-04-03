@@ -1,0 +1,1 @@
+c({"name": "jQuery.Drop.clear", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["jQuery.Drop"], "comment": "<p><p>Called after dragging has stopped.</p>Called after dragging has stopped.</p>", "hide": true, "src": "appDev/data/scripts/jquery/event/drop/drop.js", "line": 387, "children": []})

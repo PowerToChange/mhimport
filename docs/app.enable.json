@@ -1,0 +1,1 @@
+c({"name": "app.enable", "params": {"setting": {"description": "", "type": "String", "optional": false, "order": 0, "name": "setting"}}, "ret": {"description": "<p>for chaining</p>", "type": "Server"}, "type": "function", "comment": "<p>Enable <code>setting</code>.</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/express/lib/http.js", "line": 472, "children": []})

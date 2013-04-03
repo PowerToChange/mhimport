@@ -1,0 +1,1 @@
+c({"name": "defer", "type": "attribute", "comment": "<p>Defers a function to ensure a spinner is not displayed by the browser</p>\n\n<p>@api public</p>", "params": {"fn": {"order": 0, "description": "", "name": "fn", "type": "Function", "optional": false}}, "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/util.js", "line": 195, "children": []})

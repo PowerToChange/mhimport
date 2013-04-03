@@ -1,0 +1,1 @@
+c({"name": "install", "children": ["app_install", "init_values", "labels_en", "db_mysql"]})

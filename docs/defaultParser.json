@@ -1,0 +1,1 @@
+c({"name": "defaultParser", "type": "attribute", "comment": "<p>5000 iterations\nWithout cache: ~1800+ms\nWith cache: ~80ms</p>", "src": "appDev/node_modules/jsdom/lib/jsdom/browser/index.js", "line": 321, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "enabled", "type": "attribute", "comment": "<p>Checks if a setting is enabled</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/socket.io/lib/manager.js", "line": 225, "children": []})

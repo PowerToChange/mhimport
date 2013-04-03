@@ -1,0 +1,1 @@
+c({"name": "DOMException", "type": "class", "comment": "", "author": "Jon van Noort (jon@webarcana.com.au)", "params": {"constants)": {"order": 0, "description": "", "name": "constants)", "type": "code : int - the exception code (one of the DOMException", "optional": false}}, "src": "appDev/data/scripts/steal/rhino/env.js", "line": 4666, "children": []})

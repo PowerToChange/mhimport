@@ -1,0 +1,1 @@
+c({"name": "prototype.mouseElementPosition", "type": "attribute", "parents": ["prototype"], "comment": "<p>The position of start of the cursor on the element</p>", "src": "appDev/data/scripts/funcunit/test/jquery.event.drag.js", "line": 539, "children": []})

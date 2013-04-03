@@ -1,0 +1,1 @@
+c({"name": "net", "type": "attribute", "comment": "<p>global Buffer require exports console setTimeout </p>", "src": "appDev/node_modules/socket.io/node_modules/redis/index.js", "line": 0, "children": []})

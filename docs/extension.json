@@ -1,0 +1,1 @@
+c({"name": "extension", "params": {"mimeType": {"description": "", "type": "", "optional": false, "order": 0, "name": "mimeType"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Return file extension associated with a mime type</p>", "src": "appDev/node_modules/express/node_modules/mime/mime.js", "line": 65, "children": []})

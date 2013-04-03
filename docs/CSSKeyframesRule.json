@@ -1,0 +1,1 @@
+c({"name": "CSSKeyframesRule", "type": "attribute", "comment": "<p>@see http://www.w3.org/TR/css3-animations/#DOM-CSSKeyframesRule</p>", "construct": "", "ret": {"type": "csskeyframesrule", "description": ""}, "src": "appDev/node_modules/jsdom/node_modules/cssom/lib/CSSKeyframesRule.js", "line": 7, "children": []})

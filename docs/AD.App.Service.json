@@ -1,0 +1,1 @@
+c({"name": "AD.App.Service", "type": "class", "comment": "<p>This object allows a framework service to plugin to the system.</p>", "parents": ["AD.App"], "src": "appDev/node_modules/app_service.js", "line": 2, "children": []})

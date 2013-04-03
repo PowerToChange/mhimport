@@ -1,0 +1,1 @@
+c({"name": "componentManager.listWidgets", "type": "attribute", "parents": ["componentManager"], "comment": "<p>pathModules: <em>_dirname + '/containers',\npathScripts: _</em>dirname+'/scripts',\npathServices: __dirname+'/services',</p>", "src": "appDev/modules/site/interfaces/componentManager/node_componentManager.js", "line": 36, "children": []})

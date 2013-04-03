@@ -1,0 +1,1 @@
+c({"name": "EmailMessage.prototype.generateHeaders", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>mail.EmailMessage#generateHeaders() -> String</p>\n\n<p>Generates a header string where lines are separated by \\r\\n</p>", "src": "appDev/node_modules/mailer/node_modules/nodemailer/lib/mail.js", "line": 183, "children": []})

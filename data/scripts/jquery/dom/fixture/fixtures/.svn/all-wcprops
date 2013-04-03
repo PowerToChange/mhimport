@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/dom/fixture/fixtures
+END
+foo.json
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/dom/fixture/fixtures/foo.json
+END
+remove.json
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/dom/fixture/fixtures/remove.json
+END
+test.json
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/dom/fixture/fixtures/test.json
+END
+foobar.json
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/dom/fixture/fixtures/foobar.json
+END
+messages.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/dom/fixture/fixtures/messages.html
+END

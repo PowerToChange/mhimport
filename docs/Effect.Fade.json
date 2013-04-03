@@ -1,0 +1,1 @@
+c({"name": "Effect.Fade", "params": {"element": {"description": "", "type": "", "optional": false, "order": 0, "name": "element"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>------------- combination effects ------------- </p>", "src": "appDev/data/scripts/funcunit/test/protodrag/effects.js", "line": 524, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "Envjs.sleep", "params": {"millseconds": {"description": "", "type": "Object", "optional": false, "order": 0, "name": "millseconds"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>sleep thread for specified duration</p>", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 1970, "children": []})

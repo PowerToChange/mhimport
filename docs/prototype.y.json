@@ -1,0 +1,1 @@
+c({"name": "prototype.y", "type": "attribute", "parents": ["prototype"], "comment": "<p>Returns the first value of the vector</p>", "ret": {"description": "", "type": "Number"}, "src": "appDev/data/scripts/funcunit/test/jquery.event.drag.js", "line": 85, "children": []})

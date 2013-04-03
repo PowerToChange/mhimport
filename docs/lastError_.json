@@ -1,0 +1,1 @@
+c({"name": "lastError_", "type": "attribute", "comment": "<p>Time that the last error was reported. Used for rate-limiting.</p>", "attribute_type": "@type ", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/app.js", "line": 13425, "children": []})

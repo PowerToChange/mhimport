@@ -1,0 +1,1 @@
+c({"name": "disconnect", "type": "attribute", "comment": "<p>Disconnect the established connect.</p>\n\n<p>@returns {io.Socket}\n@api public</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/socket.js", "line": 294, "children": []})

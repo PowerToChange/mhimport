@@ -1,0 +1,1 @@
+c({"name": "RedisStore", "type": "attribute", "comment": "<p>Redis Store constructor.</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/socket.io/lib/socket.io.js", "line": 121, "children": []})

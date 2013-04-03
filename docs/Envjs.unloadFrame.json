@@ -1,0 +1,1 @@
+c({"name": "Envjs.unloadFrame", "params": {"frame": {"description": "", "type": "Object", "optional": false, "order": 0, "name": "frame"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>unloadFrame</p>", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 1808, "children": []})

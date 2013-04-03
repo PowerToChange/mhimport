@@ -1,0 +1,1 @@
+c({"name": "parse", "type": "attribute", "comment": "<p>Parses the buffer.</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/socket.io/lib/transports/websocket/default.js", "line": 315, "children": []})

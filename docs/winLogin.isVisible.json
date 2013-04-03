@@ -1,0 +1,1 @@
+c({"name": "winLogin.isVisible", "params": {}, "ret": {"description": "", "type": "Boolean"}, "type": "function", "parents": ["winLogin"], "comment": "<p>Returns whether or not the Re-Login form is currently visible on\nthe screen.</p>", "src": "appDev/data/scripts/appDev/appDev.js", "line": 524, "children": []})

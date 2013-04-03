@@ -1,0 +1,1 @@
+c({"name": "_bindLiveEvent", "type": "attribute", "comment": "<p>case \"rightClick\":\n$(selector.node).bind(\"contextmenu.Rtooltip\", function (e) {\n_show(e);\n});\nbreak;</p>", "src": "appDev/data/scripts/wijmo/jquery.wijmo-complete.1.4.0.js", "line": 21686, "children": []})

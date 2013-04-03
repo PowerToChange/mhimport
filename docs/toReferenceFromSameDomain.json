@@ -1,0 +1,1 @@
+c({"name": "toReferenceFromSameDomain", "params": {"url": {"description": "", "type": "Object", "optional": false, "order": 0, "name": "url"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "", "src": "appDev/data/scripts/steal/rhino/file.js", "line": 138, "children": []})

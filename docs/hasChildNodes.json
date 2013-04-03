@@ -1,0 +1,1 @@
+c({"name": "hasChildNodes", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>returns boolean </p>", "src": "appDev/node_modules/jsdom/lib/jsdom/level1/core.js", "line": 617, "children": []})

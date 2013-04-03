@@ -1,0 +1,1 @@
+c({"name": "app.registerErrorHandlers", "params": {}, "ret": {"description": "<p>for chaining</p>", "type": "Server"}, "type": "function", "comment": "<p>Register error handlers.</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/express/lib/http.js", "line": 181, "children": []})

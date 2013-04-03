@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <title>AppDev</title>
+         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+         <link href="<%- siteURL %>/theme/default/jquery-ui/jquery-ui.css" rel="stylesheet" type="text/css">
+         <link href="<%- siteURL %>/theme/default/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css">
+         <link href="<%- siteURL %>/scripts/kendoui/styles/kendo.blueopal.min.css" rel="stylesheet" type="text/css">
+         <% for(var ci in listCSS) { %>
+         <link href="<%- siteURL %><%= listCSS[ci] %>" rel="stylesheet" type="text/css">
+         <% } %>
+         <script type="text/javascript">
+         appDev_authMethod = "<%- AD.Defaults.authMethod %>";
+         </script>
+         <% for(var ji in listJavascripts) { %>
+         <script src="<%= listJavascripts[ji] %>" type="text/javascript"></script>
+         <% } %>
+    </head>
+    <body>
+         <div id="content"><%- body %></div>
+         <% if (typeof pathSteal != 'undefined') { %>
+         <script type='text/javascript' src='<%- siteURL %>/scripts/steal/steal.js?<%= pathSteal %>'></script>
+         <% } %>
+    </body>
+</html>

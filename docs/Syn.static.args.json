@@ -1,0 +1,1 @@
+c({"name": "Syn.static.args", "params": {}, "ret": {"description": "", "type": "Object"}, "type": "function", "parents": ["Syn.static"], "comment": "<p><p>Returns an object with the args for a Syn.</p>Returns an object with the args for a Syn.</p>", "hide": true, "src": "appDev/data/scripts/funcunit/syn/synthetic.js", "line": 198, "children": []})

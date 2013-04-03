@@ -1,0 +1,1 @@
+c({"name": "deleteMedium", "params": {"medium": {"description": "", "type": "string", "optional": false, "order": 0, "name": "medium"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "", "src": "appDev/node_modules/jsdom/node_modules/cssom/lib/MediaList.js", "line": 45, "children": []})

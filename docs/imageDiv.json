@@ -1,0 +1,1 @@
+c({"name": "imageDiv", "type": "attribute", "comment": "<p>var imageDiv = $(tbody.rows[groupRange.cr.r1]).find(\"div.wijmo-wijgrid-grouptogglebtn:first-child\");</p>", "src": "appDev/data/scripts/wijmo/jquery.wijmo-complete.1.4.0.js", "line": 13833, "children": []})

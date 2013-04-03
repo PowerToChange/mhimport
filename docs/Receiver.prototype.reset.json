@@ -1,0 +1,1 @@
+c({"name": "Receiver.prototype.reset", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Reset the parser state.</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/Receiver.js", "line": 235, "children": []})

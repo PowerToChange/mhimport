@@ -1,0 +1,1 @@
+c({"name": "pauseSound", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>This function pauses the sound(s) associated with the selected dom element(s)\nThis is a non-desrtuctive call</p>", "src": "appDev/modules/sketchGamez/data/scripts/jquery.gamequery-0.5.1.js", "line": 934, "children": []})

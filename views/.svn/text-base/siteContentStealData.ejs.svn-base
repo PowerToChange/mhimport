@@ -1,0 +1,66 @@
+steal(
+//  Trying to speed thing up by loading the commonly included
+//  javascriptMVC objects all in Parallel:
+	'//jquery/jquery.js',
+	'//jquery/lang/string/string.js',
+    '//jquery/controller/subscribe/subscribe.js',  
+    '//jquery/view/ejs/ejs.js',  
+    '//jquery/controller/view/view.js',           
+    '//jquery/model/model.js',                 
+    '//jquery/dom/fixture/fixture.js',           
+    '//jquery/dom/form_params/form_params.js',
+    '//jquery/event/event.js',
+    '//jquery/event/destroyed/destroyed.js',
+    '//jquery/lang/object/object.js',
+    '//jquery/lang/string/rsplit/rsplit.js',
+    '//jquery/dom/dom.js',
+    '//jquery/class/class.js',
+    '//jquery/controller/controller.js',
+    '//jquery/view/view.js',
+    '//jquery/lang/openajax/openajax.js',
+    '//base.min.js')
+.then(
+// Now load libraries dependent on jquery
+    '//kendoui/js/kendo.web.min.js',
+    '//bootstrap/js/bootstrap-tab.js')
+.then(
+// Now load the AppDev Framework 
+	'//appDev/appDev.js')
+.then(
+// now load the required javascripts for our page:
+<% 
+var showComma = false;
+for(var ji in listJavascripts) { 
+
+	if (showComma) {
+%>
+    , '//<%= listJavascripts[ji] %>'
+<%
+	} else {
+%>
+	'//<%= listJavascripts[ji] %>'
+<%  
+		showComma = true;
+	} // end if %>
+<% 
+} // end for
+
+    // if an interface provides a pathLabels we will attempt to 
+    // pre-load the label info here:
+    if (typeof pathLabels != 'undefined') {
+        if (pathLabels != '') {
+%>
+    , '//../<%= pathLabels %>'   
+<% 
+        }
+    } %>
+
+
+).then(function(){
+    
+    // All dependencies for the Page should now be loaded
+    // Now call the RAD generated Setup function()
+    OpenAjax.hub.publish("<%= nameSetupFunction %>", {});
+
+});
+

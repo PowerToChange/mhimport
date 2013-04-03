@@ -1,0 +1,1 @@
+c({"name": "getAbsolutePath", "params": {"path": {"description": "", "type": "String", "optional": false, "order": 0, "name": "path"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Gets a path, will use steal if present</p>", "hide": true, "src": "appDev/data/scripts/funcunit/browser/open.js", "line": 189, "children": []})

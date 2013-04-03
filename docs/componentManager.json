@@ -1,0 +1,1 @@
+c({"name": "componentManager", "type": "class", "comment": "<p>This is the admin Component Manager interface.</p>", "parents": ["site"], "src": "appDev/modules/site/interfaces/componentManager/node_componentManager.js", "line": 6, "children": ["componentManager.listWidgets", "update"]})

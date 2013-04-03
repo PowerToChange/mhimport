@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnCode/!svn/ver/11218/appDev/trunk/data/scripts/steal
+END
+js.bat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/js.bat
+END
+cleanjs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/cleanjs
+END
+pluginifyjs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/pluginifyjs
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnCode/!svn/ver/11218/appDev/trunk/data/scripts/steal/README.md
+END
+buildjs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/buildjs
+END
+steal.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnCode/!svn/ver/11218/appDev/trunk/data/scripts/steal/steal.js
+END
+js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/js
+END
+make.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/make.js
+END
+update
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/update
+END
+getjs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/getjs
+END
+steal.production.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/steal.production.js
+END

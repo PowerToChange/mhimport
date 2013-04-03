@@ -1,0 +1,1 @@
+c({"name": "AD.App.Page", "type": "class", "comment": "<p>Resources specifically for returning an HTML page to the browser.</p>", "parents": ["AD_Server"], "src": "appDev/node_modules/AD.js", "line": 250, "children": ["AD.App.Page.addCSS", "AD.App.Page.addJavascripts"]})

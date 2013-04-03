@@ -1,0 +1,1 @@
+c({"name": "app.init", "params": {"middleware": {"description": "", "type": "Array", "optional": false, "order": 0, "name": "middleware"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Initialize the server.</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/express/lib/http.js", "line": 50, "children": []})

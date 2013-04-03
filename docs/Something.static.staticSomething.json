@@ -1,0 +1,1 @@
+c({"name": "Something.static.staticSomething", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["Something.static"], "comment": "<p><p>holler</p>holler</p>", "src": "appDev/data/scripts/documentjs/test/something.js", "line": 41, "children": []})

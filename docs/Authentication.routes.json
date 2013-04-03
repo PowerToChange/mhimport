@@ -1,0 +1,1 @@
+c({"name": "Authentication.routes", "type": "attribute", "parents": ["Authentication"], "comment": "<p>Lets the auth handler set up any additional routes it needs</p>", "src": "appDev/node_modules/authentication.js", "line": 200, "children": []})

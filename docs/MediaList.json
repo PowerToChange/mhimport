@@ -1,0 +1,1 @@
+c({"name": "MediaList", "type": "attribute", "comment": "<p>@see http://dev.w3.org/csswg/cssom/#the-medialist-interface</p>", "construct": "", "ret": {"type": "medialist", "description": ""}, "src": "appDev/node_modules/jsdom/node_modules/cssom/lib/MediaList.js", "line": 5, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "run", "type": "attribute", "comment": "<p>Run all tests within each module, reporting the results to the command-line.</p>\n\n<p>@api public</p>", "params": {"files": {"order": 0, "description": "", "name": "files", "type": "Array", "optional": false}}, "src": "appDev/node_modules/nodeunit/lib/reporters/verbose.js", "line": 24, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "isXDomain", "type": "attribute", "comment": "<p>Check if we need to use cross domain enabled transports. Cross domain would\nbe a different port or different domain name.</p>\n\n<p>@returns {Boolean}\n@api private</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/socket.js", "line": 331, "children": []})

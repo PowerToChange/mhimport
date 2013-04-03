@@ -1,0 +1,1 @@
+c({"name": "hasCORS", "type": "attribute", "comment": "<p>Whether the UA supports CORS for XHR.</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/util.js", "line": 330, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "AD.Comm.Dispatch.attach", "params": {}, "ret": {"description": "", "type": "nil"}, "type": "function", "parents": ["AD.Comm.Dispatch"], "comment": "<p>Start the site dispatch server.  </p>\n\n<pre><code class='javascript'>AD.Comm.Dispatch.attach();</code></pre>", "src": "appDev/node_modules/comm_dispatch.js", "line": 151, "children": []})

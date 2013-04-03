@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnCode/!svn/ver/11477/appDev_Modules/appRAD/trunk/interfaces/portal/scripts
+END
+ViewEditorWidget.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnCode/!svn/ver/11436/appDev_Modules/appRAD/trunk/interfaces/portal/scripts/ViewEditorWidget.js
+END
+ModuleWidgetListWidget.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnCode/!svn/ver/11437/appDev_Modules/appRAD/trunk/interfaces/portal/scripts/ModuleWidgetListWidget.js
+END
+ModuleListWidget.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnCode/!svn/ver/11479/appDev_Modules/appRAD/trunk/interfaces/portal/scripts/ModuleListWidget.js
+END
+InterfaceWorkAreaPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnCode/!svn/ver/11434/appDev_Modules/appRAD/trunk/interfaces/portal/scripts/InterfaceWorkAreaPanel.js
+END
+ControllerEditorWidget.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnCode/!svn/ver/11436/appDev_Modules/appRAD/trunk/interfaces/portal/scripts/ControllerEditorWidget.js
+END
+portal.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnCode/!svn/ver/11479/appDev_Modules/appRAD/trunk/interfaces/portal/scripts/portal.js
+END
+ModelListWidget.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnCode/!svn/ver/11422/appDev_Modules/appRAD/trunk/interfaces/portal/scripts/ModelListWidget.js
+END
+portalRAD.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnCode/!svn/ver/11339/appDev_Modules/appRAD/trunk/interfaces/portal/scripts/portalRAD.js
+END
+ViewListWidget.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnCode/!svn/ver/11434/appDev_Modules/appRAD/trunk/interfaces/portal/scripts/ViewListWidget.js
+END
+WorkAreaPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnCode/!svn/ver/11409/appDev_Modules/appRAD/trunk/interfaces/portal/scripts/WorkAreaPanel.js
+END
+ModuleAddServiceForm.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnCode/!svn/ver/11477/appDev_Modules/appRAD/trunk/interfaces/portal/scripts/ModuleAddServiceForm.js
+END
+ControllerListWidget.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnCode/!svn/ver/11434/appDev_Modules/appRAD/trunk/interfaces/portal/scripts/ControllerListWidget.js
+END
+InstallFilesListWidget.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnCode/!svn/ver/11436/appDev_Modules/appRAD/trunk/interfaces/portal/scripts/InstallFilesListWidget.js
+END
+ModelWorkAreaPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnCode/!svn/ver/11476/appDev_Modules/appRAD/trunk/interfaces/portal/scripts/ModelWorkAreaPanel.js
+END
+InterfaceListWidget.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnCode/!svn/ver/11434/appDev_Modules/appRAD/trunk/interfaces/portal/scripts/InterfaceListWidget.js
+END
+ModuleWorkAreaPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnCode/!svn/ver/11436/appDev_Modules/appRAD/trunk/interfaces/portal/scripts/ModuleWorkAreaPanel.js
+END
+ModelAddSqlForm.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnCode/!svn/ver/11477/appDev_Modules/appRAD/trunk/interfaces/portal/scripts/ModelAddSqlForm.js
+END

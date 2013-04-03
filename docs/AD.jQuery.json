@@ -1,0 +1,1 @@
+c({"name": "AD.jQuery", "type": "class", "comment": "<p>A copy of jQuery for node.  Enables us to utilize jQuery library tools in\nour scripts.</p>", "parents": ["AD_Server"], "src": "appDev/node_modules/AD.js", "line": 24, "children": []})

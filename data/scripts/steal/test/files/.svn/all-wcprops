@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/test/files
+END
+file3.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/test/files/file3.js
+END
+file2.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/test/files/file2.js
+END
+file1.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/test/files/file1.js
+END
+loadDuplicate.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/test/files/loadDuplicate.js
+END
+require.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/test/files/require.js
+END
+dup.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/test/files/dup.js
+END
+steal.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/test/files/steal.js
+END
+require.css
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/test/files/require.css
+END
+duplicate.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/test/files/duplicate.js
+END
+something.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/test/files/something.txt
+END
+file4.css
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/test/files/file4.css
+END
+require.foo
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/test/files/require.foo
+END
+file5.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/test/files/file5.js
+END

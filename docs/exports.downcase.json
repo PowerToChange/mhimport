@@ -1,0 +1,1 @@
+c({"name": "exports.downcase", "params": {"str": {"description": "", "type": "", "optional": false, "order": 0, "name": "str"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Downcase the target <code>str</code>.</p>", "src": "appDev/node_modules/nodeunit/deps/ejs/lib/filters.js", "line": 32, "children": []})

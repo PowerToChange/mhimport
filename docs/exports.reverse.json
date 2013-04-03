@@ -1,0 +1,1 @@
+c({"name": "exports.reverse", "params": {"obj": {"description": "", "type": "", "optional": false, "order": 0, "name": "obj"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Reverse the given <code>obj</code>.</p>", "src": "appDev/node_modules/nodeunit/deps/ejs/lib/filters.js", "line": 174, "children": []})

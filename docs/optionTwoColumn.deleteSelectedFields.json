@@ -1,0 +1,1 @@
+c({"name": "optionTwoColumn.deleteSelectedFields", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["optionTwoColumn"], "comment": "<p>Click [&lt;&lt;] button to move selected items from 2nd column to 1st column</p>", "src": "appDev/data/scripts/appDev/widgets/appdev_option_TwoColumn/optionTwoColumn.js", "line": 172, "children": []})

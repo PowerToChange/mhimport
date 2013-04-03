@@ -1,0 +1,1 @@
+c({"name": "tsinc", "type": "attribute", "comment": "<p>if (minSpan &lt; this._tmInc.second) {\n                //TODO: calculate when millisecond\n            }</p>", "src": "appDev/data/scripts/wijmo/jquery.wijmo-complete.1.4.0.js", "line": 26277, "children": []})

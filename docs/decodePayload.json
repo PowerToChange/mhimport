@@ -1,0 +1,1 @@
+c({"name": "decodePayload", "type": "attribute", "comment": "<p>Decodes data payload. Detects multiple messages</p>\n\n<p>@api public</p>", "ret": {"description": "<p>messages</p>", "type": "Array"}, "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/parser.js", "line": 230, "children": []})

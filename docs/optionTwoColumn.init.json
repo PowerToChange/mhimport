@@ -1,0 +1,1 @@
+c({"name": "optionTwoColumn.init", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["optionTwoColumn"], "comment": "<p>Initializes the class object</p>", "src": "appDev/data/scripts/appDev/widgets/appdev_option_TwoColumn/optionTwoColumn.js", "line": 51, "children": []})

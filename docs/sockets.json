@@ -1,0 +1,1 @@
+c({"name": "sockets", "type": "attribute", "comment": "<p>Keep track of our io.Sockets</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/socket.io-client.js", "line": 49, "children": []})

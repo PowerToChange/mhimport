@@ -1,0 +1,1 @@
+c({"name": "re", "type": "attribute", "comment": "<p>Parses an URI</p>\n\n<p>@api public</p>", "author": "Steven Levithan <stevenlevithan.com> (MIT license)", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/util.js", "line": 16, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "Command", "type": "attribute", "comment": "<p>Expose <code>Command</code>.</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/node_modules/commander/lib/commander.js", "line": 22, "children": []})

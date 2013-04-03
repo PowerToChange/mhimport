@@ -1,0 +1,1 @@
+c({"name": "StyleSheet", "type": "attribute", "comment": "<p>@see http://dev.w3.org/csswg/cssom/#the-stylesheet-interface</p>", "construct": "", "ret": {"type": "stylesheet", "description": ""}, "src": "appDev/node_modules/jsdom/node_modules/cssom/lib/StyleSheet.js", "line": 5, "children": []})

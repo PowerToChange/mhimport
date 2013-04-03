@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/generate/templates/app
+END
+(application_name).js.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/generate/templates/app/(application_name).js.ejs
+END
+(application_name).html.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/generate/templates/app/(application_name).html.ejs
+END
+(application_name).coffee.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/generate/templates/app/(application_name).coffee.ejs
+END
+(application_name).css.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/generate/templates/app/(application_name).css.ejs
+END

@@ -1,0 +1,1 @@
+c({"name": "websocket", "type": "attribute", "comment": "<p>Expose constructor.</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/transports/websocket.js", "line": 9, "children": []})

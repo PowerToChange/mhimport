@@ -1,0 +1,1 @@
+c({"name": "app.enabled", "params": {"setting": {"description": "", "type": "String", "optional": false, "order": 0, "name": "setting"}}, "ret": {"description": "", "type": "Boolean"}, "type": "function", "comment": "<p>Check if <code>setting</code> is enabled.</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/express/lib/http.js", "line": 448, "children": []})

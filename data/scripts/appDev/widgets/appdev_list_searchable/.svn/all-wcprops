@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnCode/!svn/ver/11275/appDev/trunk/data/scripts/appDev/widgets/appdev_list_searchable
+END
+labels_en.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnCode/!svn/ver/10508/appDev/trunk/data/scripts/appDev/widgets/appdev_list_searchable/labels_en.js
+END
+appdev_list_searchable.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnCode/!svn/ver/11478/appDev/trunk/data/scripts/appDev/widgets/appdev_list_searchable/appdev_list_searchable.js
+END
+dep_appdev_list_searchable.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnCode/!svn/ver/11243/appDev/trunk/data/scripts/appDev/widgets/appdev_list_searchable/dep_appdev_list_searchable.js
+END

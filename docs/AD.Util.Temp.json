@@ -1,0 +1,1 @@
+c({"name": "AD.Util.Temp", "type": "class", "comment": "<p>Temporary File and Directory support  (see https://github.com/bruce/node-temp)</p>", "parents": ["AD.Util"], "src": "appDev/node_modules/AD.js", "line": 47, "children": []})

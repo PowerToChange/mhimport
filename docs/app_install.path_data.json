@@ -1,0 +1,1 @@
+c({"name": "app_install.path_data", "type": "attribute", "parents": ["app_install"], "comment": "<h3>Path: <code>/data/*</code></h3>\n\n<p>This serves up any secondary data files required by the initial wizard HTML\ndocument.</p>", "src": "appDev/install/app_install.js", "line": 602, "children": []})

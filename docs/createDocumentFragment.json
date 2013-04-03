@@ -1,0 +1,1 @@
+c({"name": "createDocumentFragment", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>returns DocumentFragment </p>", "src": "appDev/node_modules/jsdom/lib/jsdom/level1/core.js", "line": 1238, "children": []})

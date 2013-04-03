@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/plugin
+END
+(application_name).js.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/plugin/(application_name).js.ejs
+END
+(application_name).html.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/plugin/(application_name).html.ejs
+END
+qunit.html.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/plugin/qunit.html.ejs
+END
+(application_name)_test.js.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/jquery/generate/templates/plugin/(application_name)_test.js.ejs
+END

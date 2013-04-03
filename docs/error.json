@@ -1,0 +1,1 @@
+c({"name": "error", "type": "attribute", "comment": "<p>Handles an error</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/Receiver.js", "line": 284, "children": []})

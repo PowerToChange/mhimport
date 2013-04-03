@@ -1,0 +1,1 @@
+c({"name": "writeVolatile", "type": "attribute", "comment": "<p>Writes a volatile message.</p>\n\n<p>@api private</p>", "src": "appDev/node_modules/socket.io/lib/transport.js", "line": 517, "children": []})

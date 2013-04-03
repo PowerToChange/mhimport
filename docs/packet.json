@@ -1,0 +1,1 @@
+c({"name": "packet", "type": "attribute", "comment": "<p>Sends a packet</p>\n\n<p>@api private</p>", "params": {"packet": {"order": 0, "description": "<p>object.</p>", "name": "packet", "type": "Object", "optional": false}}, "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/transport.js", "line": 152, "children": []})

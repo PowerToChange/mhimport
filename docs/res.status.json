@@ -1,0 +1,1 @@
+c({"name": "res.status", "params": {"code": {"description": "", "type": "Number", "optional": false, "order": 0, "name": "code"}}, "ret": {"description": "", "type": "ServerResponse"}, "type": "function", "comment": "<p>Set status <code>code</code>.</p>\n\n<p>@api public</p>", "src": "appDev/node_modules/express/lib/response.js", "line": 144, "children": []})

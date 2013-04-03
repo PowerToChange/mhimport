@@ -1,0 +1,102 @@
+10
+
+dir
+11477
+http://svn.dodomail.net/svnCode/appDev/trunk/data/scripts/jquery/dom
+http://svn.dodomail.net/svnCode
+
+
+
+2012-03-14T13:16:49.037932Z
+11207
+jhausman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+41632e5b-730d-0410-a058-8b611568eb07
+
+
+
+
+
+
+0
+
+closest
+dir
+
+compare
+dir
+
+cookie
+dir
+
+cur_styles
+dir
+
+dimensions
+dir
+
+dom.js
+file
+
+
+
+
+2012-01-24T12:27:48.000000Z
+878638b42c864a1ef730c7253689e2f8
+2012-03-14T13:16:49.037932Z
+11207
+jhausman
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1869
+
+fixture
+dir
+
+form_params
+dir
+
+range
+dir
+
+route
+dir
+
+selection
+dir
+
+within
+dir
+

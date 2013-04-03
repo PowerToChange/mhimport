@@ -1,0 +1,1 @@
+c({"name": "domCell", "type": "attribute", "comment": "<p>$domCell = (i &lt;= staticColumnIndex)\n                        ? $(leftDomRow.insertCell(-1))\n                        : $(rightDomRow.insertCell(-1));</p>", "src": "appDev/data/scripts/wijmo/jquery.wijmo-complete.1.4.0.js", "line": 18905, "children": []})

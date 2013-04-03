@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/test/map/foo
+END
+foo.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/test/map/foo/foo.js
+END
+foo3.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/test/map/foo/foo3.js
+END
+template.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/test/map/foo/template.ejs
+END
+foo2.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnCode/!svn/ver/11207/appDev/trunk/data/scripts/steal/test/map/foo/foo2.js
+END

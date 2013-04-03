@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnCode/!svn/ver/11368/appDev/trunk/install/data
+END
+defaults.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnCode/!svn/ver/11055/appDev/trunk/install/data/defaults.tpl
+END
+index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnCode/!svn/ver/10532/appDev/trunk/install/data/index.tpl
+END
+defaults.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnCode/!svn/ver/10508/appDev/trunk/install/data/defaults.js
+END
+init_values.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnCode/!svn/ver/11275/appDev/trunk/install/data/init_values.js
+END
+appDev_setup_mysql.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnCode/!svn/ver/11332/appDev/trunk/install/data/appDev_setup_mysql.tpl
+END
+labels_en.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnCode/!svn/ver/11275/appDev/trunk/install/data/labels_en.js
+END
+install.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnCode/!svn/ver/11368/appDev/trunk/install/data/install.html
+END

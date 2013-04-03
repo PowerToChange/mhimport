@@ -1,0 +1,1 @@
+c({"name": "abort", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Aborts a request.</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/XMLHttpRequest.js", "line": 287, "children": []})

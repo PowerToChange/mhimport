@@ -1,0 +1,1 @@
+c({"name": "WebSocketEvent.prototype.preventDefault", "params": {}, "ret": {"description": "<p>void</p>", "type": undefined}, "type": "function", "comment": "", "src": "appDev/data/scripts/socket.io/socket.io.js", "line": 1384, "children": []})

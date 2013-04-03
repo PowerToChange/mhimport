@@ -1,0 +1,1 @@
+c({"name": "Something.static", "type": "static", "parents": ["Something"], "comment": "", "src": "appDev/data/scripts/documentjs/test/something.js", "line": 58, "children": ["Something.static.staticSomething", "Something.static.foobar", "Something.static.staticSomething", "Something.static.foobar"]})

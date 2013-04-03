@@ -1,0 +1,1 @@
+c({"name": "AD.Model.ModelSQLMultilingual", "type": "class", "comment": "<p>the definition of an SQL based Multilingual Model </p>", "parents": ["AD.Model"], "src": "appDev/node_modules/AD.js", "line": 158, "children": []})

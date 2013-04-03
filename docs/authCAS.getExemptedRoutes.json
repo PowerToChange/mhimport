@@ -1,0 +1,1 @@
+c({"name": "authCAS.getExemptedRoutes", "params": {}, "ret": {"description": "", "type": "Array"}, "type": "function", "parents": ["authCAS"], "comment": "<p>A list of routes that do not require authentication under this auth handler.</p>", "src": "appDev/node_modules/auth-cas.js", "line": 77, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "listUnassigned", "type": "attribute", "comment": "<pre><code>var listUnassigned = new ServiceModel({\nmodule:'PlacementTool',\nservice:'Unassigned'\n</code></pre>\n\n<p>});</p>", "src": "appDev/modules/PlacementTool/interfaces/Tool/scripts/Tool.js", "line": 48, "children": []})

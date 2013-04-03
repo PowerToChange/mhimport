@@ -1,0 +1,1 @@
+c({"name": "jQuery.event.special.clear", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["jQuery.event.special"], "comment": "<p>Called after dragging has stopped.</p>", "hide": true, "src": "appDev/data/scripts/funcunit/test/jquery.event.drop.js", "line": 402, "children": []})

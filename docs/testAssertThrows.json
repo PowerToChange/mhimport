@@ -1,0 +1,1 @@
+c({"name": "testAssertThrows", "type": "attribute", "comment": "<p>Test an AssertionError that does not contain actual, expected or operator values.</p>", "params": {"nodeunit": {"order": 0, "description": "", "name": "nodeunit", "type": "test the test object from", "optional": false}}, "src": "appDev/node_modules/nodeunit/test/test-bettererrors.js", "line": 39, "children": []})

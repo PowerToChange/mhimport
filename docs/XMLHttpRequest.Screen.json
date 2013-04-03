@@ -1,0 +1,1 @@
+c({"name": "XMLHttpRequest.Screen", "params": {"__window__": {"description": "", "type": "Object", "optional": false, "order": 0, "name": "__window__"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["XMLHttpRequest"], "comment": "<p>Screen</p>", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 24833, "children": []})

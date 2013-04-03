@@ -1,0 +1,1 @@
+c({"name": "flashFormatters", "type": "attribute", "comment": "<p>Default flash formatters.</p>", "attribute_type": "@type Object", "src": "appDev/node_modules/express/lib/request.js", "line": 17, "children": []})

@@ -1,0 +1,1 @@
+c({"name": "pathToRoot", "params": {"isFile": {"description": "", "type": "", "optional": false, "order": 0, "name": "isFile"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Returns the path to the root jmvc folder</p>", "src": "appDev/data/scripts/steal/rhino/file.js", "line": 285, "children": []})

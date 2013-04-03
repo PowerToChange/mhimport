@@ -1,0 +1,1 @@
+c({"name": "Document.EventTarget", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "parents": ["Document"], "comment": "<p>@name EventTarget\n@w3c:domlevel 2\n@uri -//TODO: paste dom event level 2 w3c spc uri here</p>", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 6148, "children": []})

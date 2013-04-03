@@ -1,0 +1,1 @@
+c({"name": "exports.setLabels", "params": {"labels": {"description": "", "type": "", "optional": false, "order": 0, "name": "labels"}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Pass in the labels.</p>", "src": "appDev/node_modules/auth-local.js", "line": 9, "children": []})

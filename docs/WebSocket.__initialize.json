@@ -1,0 +1,1 @@
+c({"name": "WebSocket.__initialize", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>Loads WebSocketMain.swf and creates WebSocketMain object in Flash.</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/web_socket.js", "line": 213, "children": []})

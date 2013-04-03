@@ -1,0 +1,1 @@
+c({"name": "AD.Model.ModelSQL", "type": "class", "comment": "<p>the definition of an SQL based Model</p>", "parents": ["AD.Model"], "src": "appDev/node_modules/AD.js", "line": 152, "children": []})

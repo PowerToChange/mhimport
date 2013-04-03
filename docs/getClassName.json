@@ -1,0 +1,1 @@
+c({"name": "getClassName", "params": {}, "ret": {"description": "<p>The string GameObject</p>", "type": "String"}, "type": "function", "comment": "<p>Get the class name of this object</p>", "src": "appDev/modules/sketchGamez/data/units/hordscorpion/hordscorpion.js", "line": 420, "children": []})

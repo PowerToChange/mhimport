@@ -1,0 +1,1 @@
+c({"name": "Envjs.loadCookies", "params": {"htmldoc": {"order": 0, "description": "", "name": "htmldoc", "type": "Object", "optional": false}}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>loads cookies from a local file</p>", "src": "appDev/data/scripts/steal/rhino/env.js", "line": 497, "children": []})

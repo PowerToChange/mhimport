@@ -1,0 +1,1 @@
+c({"name": "prototype.left", "type": "attribute", "parents": ["prototype"], "comment": "<p>same as y()</p>", "ret": {"description": "", "type": "Number"}, "src": "appDev/data/scripts/funcunit/test/jquery.event.drag.js", "line": 96, "children": []})

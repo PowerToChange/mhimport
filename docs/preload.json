@@ -1,0 +1,1 @@
+c({"name": "preload", "params": {}, "ret": {"type": "undefined", "description": ""}, "type": "function", "comment": "<p>This function the covers things to load befor to start the game.</p>", "src": "appDev/modules/sketchGamez/data/scripts/jquery.gamequery-0.5.1.js", "line": 68, "children": []})

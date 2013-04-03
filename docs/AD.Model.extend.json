@@ -1,0 +1,1 @@
+c({"name": "AD.Model.extend", "type": "class", "comment": "<p>method to create a Model object.</p>", "parents": ["AD.Model"], "params": {}, "src": "appDev/node_modules/AD.js", "line": 103, "children": []})

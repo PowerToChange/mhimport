@@ -1,0 +1,1 @@
+c({"name": "chunkQuery", "type": "attribute", "comment": "<p>Transforms a querystring in to an object</p>\n\n<p>@api public</p>", "params": {"qs": {"order": 0, "description": "", "name": "qs", "type": "String", "optional": false}}, "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/lib/util.js", "line": 90, "children": []})

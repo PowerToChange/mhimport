@@ -1,0 +1,1 @@
+c({"name": "get", "type": "attribute", "comment": "<p>Returns the current listener</p>\n\n<p>@returns {Mixed} the set function or undefined\n@api public</p>", "src": "appDev/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/WebSocket.js", "line": 366, "children": []})

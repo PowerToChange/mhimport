@@ -1,0 +1,1 @@
+c({"name": "____._data", "type": "directory", "comment": "<p>This directory contains variables used to collect data during the install routines</p>", "parents": ["__._install"], "src": "appDev/Documentation/docs.js", "line": 80, "children": ["_______.init_values.js", "_______.labels_en.js"]})

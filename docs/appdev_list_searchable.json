@@ -1,0 +1,1 @@
+c({"name": "appdev_list_searchable", "type": "class", "comment": "<h3>Searchable list widget</h3>\n\n<p>A Searchable list widget</p>", "parents": ["widgets"], "src": "appDev/data/scripts/appDev/widgets/appdev_list_searchable_new/appdev_list_searchable_new.js", "line": 0, "children": []})
